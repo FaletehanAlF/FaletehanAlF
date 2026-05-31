@@ -1,5 +1,7 @@
+<br clear="both">
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rounded&height=100&section=header&reversal=false&text=Hello%20World%20I'm%20Faletehan%F0%9F%91%8B%20&fontSize=50&fontColor=FCF8F8&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=true&text=Hello%20World%20I'm%20Faletehan%F0%9F%91%8B%20&fontSize=50&fontColor=FCF8F8&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=true&color=gradient"  />
 </div>
 
 ###
@@ -9,7 +11,7 @@
 ###
 
 <div align="center">
-  <img height="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3VwNGMxaHVubXc2eGE1OGx6N3Q1aHM2c3VpaWkxc2E2Mm92NGp4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UbN5sjsY2OLEgetF2e/giphy.gif"  />
+  <img height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWNpY2Y3cGF3dXNqbWo1Yjhpc3BqN3VwZjgwbGtlc3BxN2JsN21tOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 
 ###
@@ -87,15 +89,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="100" height="50" alt="telegram logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaletehanAlF/FaletehanAlF/pacman-output/puzzle-bobble-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaletehanAlF/FaletehanAlF/pacman-output/puzzle-bobble-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FaletehanAlF/FaletehanAlF/pacman-output/puzzle-bobble-contribution-graph.svg">
-</picture>
 
 ###
