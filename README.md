@@ -6,6 +6,20 @@
 
 ###
 
+<p align="center">
+  <strong>Software Engineering (RPL) Student • Web Developer • UI/UX Enthusiast</strong>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FaletehanAlF">
+    <img src="https://img.shields.io/badge/GitHub-FaletehanAlF-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-Faletehan%20Al%20Farabi-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-2563EB?style=flat" alt="Web Development">
+</p>
+
 <h2 align="center">About me</h2>
 
 ###
@@ -27,7 +41,7 @@
 
 ###
 
-<h2 align="center">My skill</h2>
+<h2 align="center">Tech Stack</h2>
 
 ###
 
