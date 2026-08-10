@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">👨🏻‍💻I'm a student majoring in RPL.<br>🛠 Working on web & UI/UX projects.<br>🤝 Open to collaborate on web development.<br>🌱 Learning HTML, CSS, JavaScript & Figma.<br>💬 Ask me about front-end & UI/UX.<br>⚡ Fun fact: I love learning new things every day.</p>
+<p align="left">👨🏻‍💻Hi, I'm Faletehan Al Farabi, a Software Engineering (RPL) student at SMK Taruna Bhakti.<br>🛠 Working on web & UI/UX projects.<br>🤝 Open to collaborate on web development.<br>🌱 Learning HTML, CSS, JavaScript & Figma.<br>💬 Ask me about front-end & UI/UX.<br>⚡ Fun fact: I love learning new things every day.</p>
 
 ###
 
