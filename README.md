@@ -73,6 +73,8 @@
   <img src="https://skillicons.dev/icons?i=md" height="50" alt="markdown logo"  />
 </div>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/FaletehanAlF?cardType=octocat&theme=dark&fontFamily=Alegreya%20Sans&preferLogin=true)](https://git.io/awesome-stats-card)
+
 ###
 
 <h2 align="center">Contact Me</h2>
