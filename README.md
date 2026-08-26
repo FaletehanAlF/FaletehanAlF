@@ -6,24 +6,6 @@
   alt="Header banner"
 />
 
-<br>
-
-<a href="https://www.linkedin.com/in/faletehan-al-farabi-" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:faletehanalfarabi09@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://youtube.com/@444flthn" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-</a>
-<a href="https://www.instagram.com/faalen_portofolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-<a href="https://t.me/faalenn" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-</a>
-
 </div>
 
 <br>
@@ -65,12 +47,10 @@ Saya tertarik pada pengembangan aplikasi web modern, perancangan pengalaman peng
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FaletehanAlF&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaletehanAlF&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FaletehanAlF&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img
+  src="https://awesome-github-stats.azurewebsites.net/user-stats/FaletehanAlF?cardType=octocat&theme=dark&fontFamily=Alegreya%20Sans&preferLogin=true"
+  alt="Faletehan's GitHub Stats"
+/>
 
 </div>
 
@@ -80,7 +60,25 @@ Saya tertarik pada pengembangan aplikasi web modern, perancangan pengalaman peng
 
 <div align="center">
 
-Punya proyek menarik atau ingin berkolaborasi? Jangan ragu untuk menghubungi saya melalui salah satu kanal di atas 👆
+Punya proyek menarik atau ingin berkolaborasi? Jangan ragu untuk menghubungi saya melalui salah satu kanal berikut 👇
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/faletehan-al-farabi-" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:faletehanalfarabi09@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://youtube.com/@444flthn" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+</a>
+<a href="https://www.instagram.com/faalen_portofolio/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://t.me/faalenn" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
 
 </div>
 
