@@ -38,7 +38,7 @@ Saya senang mengubah ide menjadi aplikasi yang **fungsional, responsif, dan muda
 * ⚛️ Mengembangkan aplikasi dengan **React & Next.js**
 * 🟦 Mendalami **JavaScript & TypeScript**
 * 🎨 Memiliki ketertarikan pada **UI/UX Design**
-* 🤖 Sedang mengeksplorasi **Artificial Intelligence**
+* 🤖 Mengeksplorasi **Artificial Intelligence**
 * 🔧 Terbiasa menggunakan **Git & GitHub**
 * 📚 Belajar melalui **real-world projects**
 
@@ -84,7 +84,7 @@ Saya senang mengubah ide menjadi aplikasi yang **fungsional, responsif, dan muda
 
 ### 🛒 SneakerZone
 
-Modern e-commerce website with product browsing, product details, shopping cart, and checkout functionality.
+Modern e-commerce website featuring product browsing, product details, shopping cart, and checkout functionality.
 
 **Tech:** HTML · CSS · JavaScript · LocalStorage
 
@@ -94,7 +94,7 @@ Modern e-commerce website with product browsing, product details, shopping cart,
 
 ### ♻️ Rebitesss
 
-Web platform project focused on building a modern user experience with authentication and role-based access.
+Web platform project focused on modern user experience with authentication and role-based access.
 
 **Tech:** Next.js · React · TypeScript · Tailwind · Supabase
 
@@ -106,7 +106,7 @@ Web platform project focused on building a modern user experience with authentic
 
 ### 📚 Digital Library
 
-Digital library application designed to simplify book management and access.
+Digital library application designed to simplify book management and digital access.
 
 **Tech:** Web Development · Database
 
@@ -116,7 +116,7 @@ Digital library application designed to simplify book management and access.
 
 ### 💰 Expense Tracker
 
-Web application for managing income, expenses, and financial activity with a clean dashboard interface.
+Modern web application for managing income, expenses, and financial activity through a clean dashboard.
 
 **Tech:** Next.js · React · TypeScript
 
@@ -151,47 +151,12 @@ src="https://github-readme-stats.shion.dev/api/top-langs/?username=FaletehanAlF&
 alt="Top Languages"
 />
 
-</div>
-
-<br>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
+<br><br>
 
 <img
 src="https://github-contributor-stats.vercel.app/api?username=FaletehanAlF&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true"
 alt="Top Contributed Repositories"
 />
-
-</div>
-
-<br>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/FaletehanAlF/FaletehanAlF/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-/>
-
-</div>
-
-<br>
-
----
-
-## 🎯 Currently Learning
-
-<div align="center">
-
-`TypeScript` · `Next.js` · `Backend Development` · `UI/UX` · `Artificial Intelligence`
 
 </div>
 
