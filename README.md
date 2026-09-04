@@ -6,9 +6,7 @@ src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header
 alt="Faletehan Al Farabi"
 />
 
-</div>
-
-<div align="center">
+<br>
 
 ### 👋 Hi, I'm Faletehan
 
@@ -32,12 +30,12 @@ Building modern, responsive, and user-friendly web applications while continuous
 
 Halo, saya **Faletehan Al Farabi**, pelajar **Rekayasa Perangkat Lunak (RPL)** di **SMK Taruna Bhakti** yang memiliki ketertarikan pada pengembangan aplikasi web modern dan desain antarmuka yang intuitif.
 
-Saya senang mengubah ide menjadi aplikasi yang **fungsional, responsif, dan mudah digunakan**, sekaligus terus memperdalam pemahaman mengenai software development melalui berbagai proyek dan eksplorasi teknologi.
+Saya senang mengubah ide menjadi aplikasi yang **fungsional, responsif, dan mudah digunakan**, sekaligus terus memperdalam kemampuan software development melalui berbagai proyek dan eksplorasi teknologi.
 
 * 🚀 Fokus pada **Web Development**
 * ⚛️ Mengembangkan aplikasi dengan **React & Next.js**
 * 🟦 Mendalami **JavaScript & TypeScript**
-* 🎨 Memiliki ketertarikan pada **UI/UX Design**
+* 🎨 Tertarik pada **UI/UX Design**
 * 🤖 Mengeksplorasi **Artificial Intelligence**
 * 🔧 Terbiasa menggunakan **Git & GitHub**
 * 📚 Belajar melalui **real-world projects**
@@ -48,81 +46,29 @@ Saya senang mengubah ide menjadi aplikasi yang **fungsional, responsif, dan muda
 
 ## ⚡ Tech Stack
 
-### Frontend
+**Frontend**
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,vue,flutter" />
 </p>
 
-### Backend
+**Backend**
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,go" />
 </p>
 
-### Database & Backend Services
+**Database & Backend Services**
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase,firebase" />
 </p>
 
-### Tools & Design
+**Tools & Design**
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,ai,vercel,netlify,docker,postman" />
 </p>
-
-<br>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 SneakerZone
-
-Modern e-commerce website featuring product browsing, product details, shopping cart, and checkout functionality.
-
-**Tech:** HTML · CSS · JavaScript · LocalStorage
-
-</td>
-
-<td width="50%">
-
-### ♻️ Rebitesss
-
-Web platform project focused on modern user experience with authentication and role-based access.
-
-**Tech:** Next.js · React · TypeScript · Tailwind · Supabase
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 Digital Library
-
-Digital library application designed to simplify book management and digital access.
-
-**Tech:** Web Development · Database
-
-</td>
-
-<td width="50%">
-
-### 💰 Expense Tracker
-
-Modern web application for managing income, expenses, and financial activity through a clean dashboard.
-
-**Tech:** Next.js · React · TypeScript
-
-</td>
-</tr>
-</table>
 
 <br>
 
@@ -150,8 +96,6 @@ alt="GitHub Streak"
 src="https://github-readme-stats.shion.dev/api/top-langs/?username=FaletehanAlF&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
 alt="Top Languages"
 />
-
-<br><br>
 
 </div>
 
@@ -193,12 +137,7 @@ I'm always open to interesting projects, collaborations, and opportunities to le
 
 <div align="center">
 
-### 💡 "Building, learning, and improving — one project at a time."
-
-<br>
-
 <img
-width="100%"
 src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2b5876,100:4e4376"
 alt="Footer"
 />
