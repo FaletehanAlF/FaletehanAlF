@@ -153,11 +153,6 @@ alt="Top Languages"
 
 <br><br>
 
-<img
-src="https://github-contributor-stats.vercel.app/api?username=FaletehanAlF&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true"
-alt="Top Contributed Repositories"
-/>
-
 </div>
 
 <br>
