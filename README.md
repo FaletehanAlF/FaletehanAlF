@@ -1,16 +1,16 @@
 <div align="center">
 
 <img
-  width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Faletehan%20Al%20Farabi&fontSize=48&fontColor=FCF8F8&fontAlign=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn&color=0:2b5876,100:4e4376"
-  alt="Faletehan Al Farabi"
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Faletehan%20Al%20Farabi&fontSize=48&fontColor=FCF8F8&fontAlign=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn&color=0:2b5876,100:4e4376"
+alt="Faletehan Al Farabi"
 />
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=4E4376&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;Web+Developer;UI/UX Designer;Always+Learning%2C+Always+Building"
-  alt="Typing SVG"
+src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=4E4376&center=true&vCenter=true&width=560&lines=Software+Engineering;Web+Developer;Fullstack+Developer;UI%2FUX+Designer;Cyber+Security;Mobile+App+Developer"
+alt="Typing SVG"
 />
 
 <p>
@@ -30,13 +30,15 @@ Halo, saya **Faletehan Al Farabi**, pelajar **Rekayasa Perangkat Lunak (RPL)** d
 
 Saya senang mengubah ide menjadi aplikasi yang **fungsional, responsif, dan mudah digunakan**, sekaligus terus memperdalam kemampuan software development melalui berbagai proyek dan eksplorasi teknologi.
 
-- Fokus pada **Web Development**
-- Mengembangkan aplikasi dengan **React & Next.js**
-- Mendalami **JavaScript & TypeScript**
-- Tertarik pada **UI/UX Design**
-- Mengeksplorasi **Artificial Intelligence**
-- Terbiasa menggunakan **Git & GitHub**
-- Belajar melalui **real-world projects**
+* Fokus pada **Web Development**
+* Mengembangkan aplikasi dengan **React & Next.js**
+* Mendalami **JavaScript & TypeScript**
+* Tertarik pada **UI/UX Design**
+* Mengeksplorasi **Artificial Intelligence**
+* Memiliki ketertarikan pada **Cyber Security**
+* Mempelajari **Mobile App Development**
+* Terbiasa menggunakan **Git & GitHub**
+* Belajar melalui **real-world projects**
 
 <br>
 
@@ -73,22 +75,22 @@ Saya senang mengubah ide menjadi aplikasi yang **fungsional, responsif, dan muda
 <div align="center">
 
 <img
-  src="https://github-readme-stats.shion.dev/api?username=FaletehanAlF&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false"
-  alt="Faletehan GitHub Stats"
+src="https://github-readme-stats.shion.dev/api?username=FaletehanAlF&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false"
+alt="Faletehan GitHub Stats"
 />
 
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com/?user=FaletehanAlF&theme=blue_navy&hide_border=false"
-  alt="GitHub Streak"
+src="https://streak-stats.demolab.com/?user=FaletehanAlF&theme=blue_navy&hide_border=false"
+alt="GitHub Streak"
 />
 
 <br><br>
 
 <img
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=FaletehanAlF&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
-  alt="Top Languages"
+src="https://github-readme-stats.shion.dev/api/top-langs/?username=FaletehanAlF&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+alt="Top Languages"
 />
 
 </div>
