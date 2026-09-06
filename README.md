@@ -9,7 +9,7 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=4E4376&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;Web+Developer;UI%2FUX+Enthusiast;Always+Learning%2C+Always+Building"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=4E4376&center=true&vCenter=true&width=560&lines=Software+Engineering+Student;Web+Developer;UI/UX Designer;Always+Learning%2C+Always+Building"
   alt="Typing SVG"
 />
 
