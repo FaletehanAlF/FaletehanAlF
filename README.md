@@ -6,10 +6,7 @@
   alt="Faletehan Al Farabi"
 />
 
-<p>
-  I build modern, responsive, and user-friendly web applications.
-  Focused on clean code, great UX, and continuous learning.
-</p>
+<br>
 
 <a href="https://github.com/FaletehanAlF" target="_blank">
   <img width="200" src="views.svg" alt="Profile Views"/>
