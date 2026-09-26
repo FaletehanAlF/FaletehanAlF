@@ -34,27 +34,6 @@ I enjoy turning ideas into **functional, responsive, and user-centered applicati
 
 ---
 
-## 💼 What I Do
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h4>🎨 Frontend</h4>
-      <p>Responsive, accessible, and modern interfaces with React ecosystem</p>
-    </td>
-    <td align="center" width="33%">
-      <h4>⚙️ Backend</h4>
-      <p>REST APIs, authentication, and database-driven applications</p>
-    </td>
-    <td align="center" width="33%">
-      <h4>🚀 Growth</h4>
-      <p>UI/UX, AI tools, security basics, and real-project workflows with Git</p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -136,12 +115,14 @@ I enjoy turning ideas into **functional, responsive, and user-centered applicati
 <a href="mailto:faletehanalfarabi09@gmail.com">
   <img width="220" src="gmail.svg" alt="Gmail"/>
 </a>
+<br>
 <a href="https://youtube.com/@444flthn" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-2563EB?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  <img width="220" src="youtube.svg" alt="YouTube"/>
 </a>
 <a href="https://www.instagram.com/faalen_portofolio/" target="_blank">
   <img width="220" src="instagram.svg" alt="Instagram"/>
 </a>
+<br>
 <a href="https://t.me/faalenn" target="_blank">
   <img width="220" src="telegram.svg" alt="Telegram"/>
 </a>
