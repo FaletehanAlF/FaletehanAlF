@@ -11,9 +11,15 @@
   Focused on clean code, great UX, and continuous learning.
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=FaletehanAlF&label=Profile%20Views&color=4e4376&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/FaletehanAlF?label=Followers&style=for-the-badge&color=2b5876" alt="GitHub Followers" />
-<img src="https://img.shields.io/badge/Open_to-Collaboration-4e4376?style=for-the-badge" alt="Open to Collaboration" />
+<a href="https://github.com/FaletehanAlF" target="_blank">
+  <img width="200" src="views.svg" alt="Profile Views"/>
+</a>
+<a href="https://github.com/FaletehanAlF?tab=followers" target="_blank">
+  <img width="200" src="followers.svg" alt="Followers"/>
+</a>
+<a href="mailto:faletehanalfarabi09@gmail.com">
+  <img width="200" src="status.svg" alt="Open to Collaboration"/>
+</a>
 
 </div>
 
