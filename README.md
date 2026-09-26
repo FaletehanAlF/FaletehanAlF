@@ -22,18 +22,28 @@
 
 ---
 
-## 👋 About Me
+## 🛰️ About Me — `// SYSTEM.ONLINE`
 
-I'm **Faletehan Al Farabi**, a **Software Engineering (RPL) student at SMK Taruna Bhakti** passionate about building modern web experiences and intuitive interfaces.
+> I'm **Faletehan Al Farabi**, a **Software Engineering (RPL) student at SMK Taruna Bhakti**.
+> I build **modern, responsive, and user-centered web applications** and learn best by turning ideas into real projects.
 
-I enjoy turning ideas into **functional, responsive, and user-centered applications**, while sharpening my skills through real-world projects and exploring new technologies.
+```js
+const faletehan = {
+  role: "Front-End / Full-Stack Web Developer (Student)",
+  school: "SMK Taruna Bhakti — Software Engineering (RPL)",
+  location: "Indonesia",
+  focus: ["React", "Next.js", "TypeScript"],
+  exploring: ["Backend Architecture", "UI/UX Design", "AI Integration"],
+  interests: ["Cyber Security", "Mobile App Development"],
+  status: "OPEN_TO_WORK",
+  motto: "Build, break, rebuild, ship."
+};
+```
 
-- 🔭 Currently focused on **Full-Stack Web Development with React, Next.js & TypeScript**
-- 🌱 Learning **Backend Architecture, UI/UX Design, and AI Integration**
-- 💡 Interested in **Cyber Security & Mobile App Development**
-- 🎯 Goal: Become a **professional Software Engineer** building impactful products
-- 📫 Reach me at **faletehanalfarabi09@gmail.com**
-- ⚡ Fun fact: I learn best by **building, breaking, and rebuilding projects**
+- 🛰️ **Current focus:** Full-Stack Web Development with **React, Next.js & TypeScript**
+- 🌱 **Currently learning:** Backend Architecture, UI/UX Design, and AI Integration
+- 🎯 **Goal:** To become a **professional Software Engineer** who builds impactful products
+- 📫 **Contact:** **faletehanalfarabi09@gmail.com** — open to collaboration, internships, and learning opportunities
 
 ---
 
