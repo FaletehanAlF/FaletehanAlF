@@ -58,9 +58,15 @@ I build **modern, responsive, and user-centered web applications** and learn bes
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
+
+<img
+  width="100%"
+  src="analytics.svg"
+  alt="GitHub Analytics"
+/>
 
 <img
   height="150"

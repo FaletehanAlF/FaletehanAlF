@@ -1,0 +1,63 @@
+<svg width="900" height="130" viewBox="0 0 900 130" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+  .title { font-family: 'Fira Code','JetBrains Mono',ui-monospace,monospace; font-size: 28px; font-weight: 700; letter-spacing: 9px; fill: #ffffff; }
+  .corner { stroke: #38bdf8; stroke-width: 2; fill: none; opacity: .8; }
+  .grid { stroke: #38bdf8; stroke-opacity: .06; stroke-width: 1; }
+  .glowbar { animation: pulse 2.6s ease-in-out infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+  @keyframes scan { 0% { transform: translateY(-30px); } 100% { transform: translateY(160px); } }
+</style>
+<radialGradient id="anaBg" cx="50%" cy="15%" r="90%">
+  <stop offset="0%" stop-color="#0a1c33"/>
+  <stop offset="45%" stop-color="#070d1a"/>
+  <stop offset="100%" stop-color="#020409"/>
+</radialGradient>
+<radialGradient id="anaVig" cx="50%" cy="50%" r="75%">
+  <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+</radialGradient>
+<linearGradient id="anaFrame" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#38bdf8"><animate attributeName="stop-color" values="#38bdf8;#2563eb;#38bdf8" dur="6s" repeatCount="indefinite"/></stop>
+  <stop offset="100%" stop-color="#2563eb"><animate attributeName="stop-color" values="#2563eb;#38bdf8;#2563eb" dur="6s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<linearGradient id="anaRule" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+  <stop offset="20%" stop-color="#2563eb" stop-opacity="0.9"/>
+  <stop offset="50%" stop-color="#38bdf8"/>
+  <stop offset="80%" stop-color="#2563eb" stop-opacity="0.9"/>
+  <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+</linearGradient>
+<filter id="anaGlow" x="-60%" y="-60%" width="220%" height="220%">
+  <feGaussianBlur stdDeviation="3" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<linearGradient id="anaScan" x1="0%" y1="0%" x2="0%" y2="100%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#ffffff" stop-opacity="0.05"/>
+  <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="900" height="130" rx="18" fill="url(#anaBg)"/>
+<rect x="0" y="0" width="900" height="130" rx="18" fill="url(#anaVig)"/>
+<line class="grid" x1="0" y1="65" x2="900" y2="65"/>
+<rect x="3" y="3" width="894" height="124" rx="16" fill="none" stroke="url(#anaFrame)" stroke-width="2" opacity="0.55"/>
+<path class="corner" d="M24 52 L24 24 L60 24"/>
+<path class="corner" d="M876 52 L876 24 L840 24"/>
+<path class="corner" d="M24 78 L24 106 L60 106"/>
+<path class="corner" d="M876 78 L876 106 L840 106"/>
+<rect x="0" y="0" width="900" height="30" fill="url(#anaScan)" style="animation: scan 5s linear infinite;"/>
+<g filter="url(#anaGlow)">
+  <text x="450" y="62" text-anchor="middle" class="title" fill="#38bdf8">ANALYTICS</text>
+</g>
+<rect class="glowbar" x="390" y="74" width="120" height="2" fill="#38bdf8" filter="url(#anaGlow)"/>
+<rect x="80" y="102" width="740" height="1.6" fill="url(#anaRule)">
+  <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
+</rect>
+<g fill="#38bdf8">
+  <circle cx="150" cy="102.8" r="2.4">
+    <animate attributeName="cx" values="150;750;150" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</g>
+</svg>
