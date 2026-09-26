@@ -28,12 +28,6 @@
           font-size="30" font-weight="700" letter-spacing="9" fill="#38bdf8">CONNECT</text>
   </g>
 
-  <text x="450.0" y="78" text-anchor="middle"
-        font-family="'Fira Code',ui-monospace,monospace"
-        font-size="12" letter-spacing="4" fill="#7dd3fc">
-    // ESTABLISHING UPLINK &#8212; FALETEHAN AL FARABI
-  </text>
-
   <rect x="80" y="94" width="740" height="1.6" fill="url(#rule)">
     <animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/>
   </rect>

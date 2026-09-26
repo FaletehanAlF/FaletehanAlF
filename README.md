@@ -37,19 +37,6 @@
 I'm **Faletehan Al Farabi**, a **Software Engineering (RPL) student at SMK Taruna Bhakti**.
 I build **modern, responsive, and user-centered web applications** and learn best by turning ideas into real projects.
 
-```js
-const faletehan = {
-  role: "Front-End / Full-Stack Web Developer (Student)",
-  school: "SMK Taruna Bhakti — Software Engineering (RPL)",
-  location: "Indonesia",
-  focus: ["React", "Next.js", "TypeScript"],
-  exploring: ["Backend Architecture", "UI/UX Design", "AI Integration"],
-  interests: ["Cyber Security", "Mobile App Development"],
-  status: "OPEN_TO_WORK",
-  motto: "Build, break, rebuild, ship."
-};
-```
-
 - **Current focus:** Full-Stack Web Development with **React, Next.js and TypeScript**
 - **Currently learning:** Backend Architecture, UI/UX Design, and AI Integration
 - **Goal:** To become a **professional Software Engineer** who builds impactful products
@@ -57,7 +44,7 @@ const faletehan = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -98,7 +85,7 @@ const faletehan = {
 
 ---
 
-## 🕹️ Contribution Arcade
+## Contribution Arcade
 
 <div align="center">
 
@@ -114,7 +101,7 @@ const faletehan = {
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
