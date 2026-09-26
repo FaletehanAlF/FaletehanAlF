@@ -47,41 +47,15 @@ const faletehan = {
 
 ---
 
-## 🛠️ Tech Stack — `// MY_ARSENAL`
+## 🛠️ Tech Stack
 
 <div align="center">
 
-<details open>
-<summary><b>🛰️ View Arsenal — click to collapse</b></summary>
-<br>
 <img
   width="100%"
   src="skills.svg"
   alt="Tech Stack"
 />
-<br><br>
-</details>
-
-<details>
-<summary><b>🎨 Frontend — 10</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,vue,flutter" alt="Frontend" />
-<br><br>
-</details>
-
-<details>
-<summary><b>⚙️ Backend & Database — 11</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,go,mysql,postgres,mongodb,sqlite,supabase,firebase" alt="Backend & Database" />
-<br><br>
-</details>
-
-<details>
-<summary><b>🧰 Tools & Design — 9</b></summary>
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,docker,postman,vercel,netlify" alt="Tools & Design" />
-<br><br>
-</details>
 
 </div>
 
