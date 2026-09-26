@@ -22,10 +22,20 @@
 
 ---
 
-## 🛰️ About Me — `// SYSTEM.ONLINE`
+## About Me
 
-> I'm **Faletehan Al Farabi**, a **Software Engineering (RPL) student at SMK Taruna Bhakti**.
-> I build **modern, responsive, and user-centered web applications** and learn best by turning ideas into real projects.
+<div align="center">
+
+<img
+  width="100%"
+  src="about.svg"
+  alt="About Faletehan Al Farabi"
+/>
+
+</div>
+
+I'm **Faletehan Al Farabi**, a **Software Engineering (RPL) student at SMK Taruna Bhakti**.
+I build **modern, responsive, and user-centered web applications** and learn best by turning ideas into real projects.
 
 ```js
 const faletehan = {
@@ -40,10 +50,10 @@ const faletehan = {
 };
 ```
 
-- 🛰️ **Current focus:** Full-Stack Web Development with **React, Next.js & TypeScript**
-- 🌱 **Currently learning:** Backend Architecture, UI/UX Design, and AI Integration
-- 🎯 **Goal:** To become a **professional Software Engineer** who builds impactful products
-- 📫 **Contact:** **faletehanalfarabi09@gmail.com** — open to collaboration, internships, and learning opportunities
+- **Current focus:** Full-Stack Web Development with **React, Next.js and TypeScript**
+- **Currently learning:** Backend Architecture, UI/UX Design, and AI Integration
+- **Goal:** To become a **professional Software Engineer** who builds impactful products
+- **Contact:** **faletehanalfarabi09@gmail.com** — open to collaboration, internships, and learning opportunities
 
 ---
 

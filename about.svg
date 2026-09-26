@@ -1,0 +1,93 @@
+<svg width="900" height="430" viewBox="0 0 900 430" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<style>
+  .name { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 26px; letter-spacing: 4px; fill: #ffffff; }
+  .role { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 600; font-size: 13px; letter-spacing: 2px; fill: #7dd3fc; }
+  .label { font-family: 'Fira Code','JetBrains Mono',ui-monospace,monospace; font-size: 12px; letter-spacing: 4px; fill: #7dd3fc; }
+  .initials { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 42px; fill: #ffffff; }
+  .hint { font-family: 'Fira Code',ui-monospace,monospace; font-size: 10px; letter-spacing: 2px; fill: #7dd3fc; }
+  .status-text { font-family: 'Fira Code',ui-monospace,monospace; font-weight: 700; font-size: 11px; letter-spacing: 2px; fill: #4ade80; }
+  .corner { stroke: #38bdf8; stroke-width: 2; fill: none; opacity: .8; }
+  .grid { stroke: #38bdf8; stroke-opacity: .06; stroke-width: 1; }
+  .trace { fill: none; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 30 250; animation: travel 3.2s linear infinite; }
+  @keyframes travel { to { stroke-dashoffset: -400; } }
+  .glowbar { animation: pulse 2.6s ease-in-out infinite; }
+  .pulse-ring { animation: pulse 2.6s ease-in-out infinite; }
+  @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
+  @keyframes drift { 0% { transform: translateX(0); } 50% { transform: translateX(14px); } 100% { transform: translateX(0); } }
+  @keyframes scan { 0% { transform: translateY(-40px); } 100% { transform: translateY(470px); } }
+  .spin { transform-origin: 450px 185px; animation: spin 14s linear infinite; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+</style>
+<radialGradient id="aboutBg" cx="50%" cy="15%" r="90%">
+  <stop offset="0%" stop-color="#0a1c33"/>
+  <stop offset="45%" stop-color="#070d1a"/>
+  <stop offset="100%" stop-color="#020409"/>
+</radialGradient>
+<radialGradient id="aboutVig" cx="50%" cy="50%" r="75%">
+  <stop offset="60%" stop-color="#000000" stop-opacity="0"/>
+  <stop offset="100%" stop-color="#000000" stop-opacity="0.55"/>
+</radialGradient>
+<linearGradient id="aboutFrame" x1="0%" y1="0%" x2="100%" y2="100%">
+  <stop offset="0%" stop-color="#38bdf8"><animate attributeName="stop-color" values="#38bdf8;#2563eb;#38bdf8" dur="6s" repeatCount="indefinite"/></stop>
+  <stop offset="100%" stop-color="#2563eb"><animate attributeName="stop-color" values="#2563eb;#38bdf8;#2563eb" dur="6s" repeatCount="indefinite"/></stop>
+</linearGradient>
+<filter id="aboutGlow" x="-60%" y="-60%" width="220%" height="220%">
+  <feGaussianBlur stdDeviation="4" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="aboutSoft" x="-80%" y="-80%" width="260%" height="260%">
+  <feGaussianBlur stdDeviation="10" result="blur"/>
+  <feMerge><feMergeNode in="blur"/><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<linearGradient id="aboutScan" x1="0%" y1="0%" x2="0%" y2="100%">
+  <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+  <stop offset="50%" stop-color="#ffffff" stop-opacity="0.05"/>
+  <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+</linearGradient>
+<clipPath id="photoClip"><circle cx="450" cy="185" r="76"/></clipPath>
+</defs>
+<rect x="0" y="0" width="900" height="430" rx="18" fill="url(#aboutBg)"/>
+<rect x="0" y="0" width="900" height="430" rx="18" fill="url(#aboutVig)"/>
+<g style="animation: drift 12s ease-in-out infinite;">
+  <line class="grid" x1="0" y1="80" x2="900" y2="80"/>
+  <line class="grid" x1="0" y1="200" x2="900" y2="200"/>
+  <line class="grid" x1="0" y1="320" x2="900" y2="320"/>
+</g>
+<rect x="3" y="3" width="894" height="424" rx="16" fill="none" stroke="url(#aboutFrame)" stroke-width="5" opacity="0.22" filter="url(#aboutSoft)"/>
+<rect x="3" y="3" width="894" height="424" rx="16" fill="none" stroke="url(#aboutFrame)" stroke-width="2" opacity="0.55"/>
+<path class="corner" d="M24 60 L24 24 L60 24"/>
+<path class="corner" d="M876 60 L876 24 L840 24"/>
+<path class="corner" d="M24 370 L24 406 L60 406"/>
+<path class="corner" d="M876 370 L876 406 L840 406"/>
+<rect x="0" y="0" width="900" height="40" fill="url(#aboutScan)" style="animation: scan 6s linear infinite;"/>
+<text x="450" y="52" text-anchor="middle" class="label">ABOUT ME</text>
+<rect class="glowbar" x="390" y="62" width="120" height="2" fill="#38bdf8" filter="url(#aboutGlow)"/>
+<!-- PHOTO RING -->
+<circle cx="450" cy="185" r="94" fill="none" stroke="#2563eb" stroke-width="1.2" opacity="0.5"/>
+<circle class="spin" cx="450" cy="185" r="94" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="24 18" opacity="0.9" filter="url(#aboutGlow)"/>
+<circle class="pulse-ring" cx="450" cy="185" r="86" fill="none" stroke="#38bdf8" stroke-width="1.5" filter="url(#aboutGlow)"/>
+<circle cx="450" cy="185" r="78" fill="#0a1e3a" stroke="#38bdf8" stroke-width="1.5"/>
+<!--
+  CARA PASANG FOTO:
+  1. Siapkan foto persegi (mis. profile.jpg)
+  2. Minta saya embed, atau ganti grup placeholder di bawah ini dengan:
+     <g clip-path="url(#photoClip)"><image href="data:image/jpeg;base64,..." x="372" y="107" width="156" height="156" preserveAspectRatio="xMidYMid slice"/></g>
+  SVG yang ditampilkan via README harus self-contained (base64), jadi href file luar tidak akan tampil di GitHub.
+-->
+<g clip-path="url(#photoClip)">
+  <rect x="372" y="107" width="156" height="156" fill="#0a1e3a"/>
+  <text x="450" y="198" text-anchor="middle" class="initials">FA</text>
+  <text x="450" y="222" text-anchor="middle" class="hint">ADD PHOTO</text>
+</g>
+<rect class="trace" x="364" y="99" width="172" height="172" rx="86" stroke="#38bdf8"/>
+<text x="450" y="312" text-anchor="middle" class="name" filter="url(#aboutSoft)">FALETEHAN AL FARABI</text>
+<text x="450" y="336" text-anchor="middle" class="role">SOFTWARE ENGINEERING (RPL) — SMK TARUNA BHAKTI</text>
+<g>
+  <circle cx="386" cy="361" r="4" fill="#22c55e">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="398" y="365" class="status-text">OPEN TO WORK</text>
+  <text x="514" y="365" class="hint">INDONESIA</text>
+</g>
+</svg>
