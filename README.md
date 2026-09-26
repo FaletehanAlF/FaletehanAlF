@@ -85,28 +85,29 @@ I enjoy turning ideas into **functional, responsive, and user-centered applicati
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-readme-stats.shion.dev/api?username=FaletehanAlF&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false"
+  height="150"
+  src="https://github-readme-stats.shion.dev/api?username=FaletehanAlF&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false"
   alt="GitHub Stats"
-/><img
-  width="49%"
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=FaletehanAlF&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+/>
+<img
+  height="150"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=FaletehanAlF&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
   alt="Top Languages"
 />
 
-<br><br>
+<br>
 
 <img
-  width="100%"
-  src="https://streak-stats.demolab.com/?user=FaletehanAlF&theme=blue_navy&hide_border=false"
+  width="495"
+  src="https://streak-stats.demolab.com/?user=FaletehanAlF&theme=blue_navy&hide_border=true"
   alt="GitHub Streak"
 />
 
-<br><br>
+<br>
 
 <img
   width="100%"
-  src="https://raw.githubusercontent.com/FaletehanAlF/FaletehanAlF/activity-graph-output/activity-graph.svg"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=FaletehanAlF&theme=react-dark&hide_border=true&area=true&radius=16"
   alt="Activity Graph"
 />
 
