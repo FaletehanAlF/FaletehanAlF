@@ -140,7 +140,7 @@ I enjoy turning ideas into **functional, responsive, and user-centered applicati
   <img src="https://img.shields.io/badge/YouTube-2563EB?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 <a href="https://www.instagram.com/faalen_portofolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  <img width="220" src="instagram.svg" alt="Instagram"/>
 </a>
 <a href="https://t.me/faalenn" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2563EB?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
