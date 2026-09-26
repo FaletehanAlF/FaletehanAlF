@@ -148,7 +148,7 @@ I build **modern, responsive, and user-centered web applications** and learn bes
 <div align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2b5876,100:4e4376"
+    src="footer.svg"
     alt="Footer"
   />
 </div>
