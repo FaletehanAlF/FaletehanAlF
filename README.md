@@ -38,17 +38,26 @@ I enjoy turning ideas into **functional, responsive, and user-centered applicati
 
 <div align="center">
 
-### Frontend
+<details>
+<summary><b>🎨 Frontend</b></summary>
+<br>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,vue,flutter" alt="Frontend" />
+<br><br>
+</details>
 
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,go" alt="Backend" />
+<details>
+<summary><b>⚙️ Backend & Database</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,go,mysql,postgres,mongodb,sqlite,supabase,firebase" alt="Backend & Database" />
+<br><br>
+</details>
 
-### Database & Cloud
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase,firebase,vercel,netlify" alt="Database & Cloud" />
-
-### Tools & Design
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,docker,postman" alt="Tools" />
+<details>
+<summary><b>🧰 Tools & Design</b></summary>
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,docker,postman,vercel,netlify" alt="Tools & Design" />
+<br><br>
+</details>
 
 </div>
 
@@ -110,21 +119,19 @@ I enjoy turning ideas into **functional, responsive, and user-centered applicati
 <p>I'm always open to interesting projects, collaborations, internships, and learning opportunities.</p>
 
 <a href="https://www.linkedin.com/in/faletehan-al-farabi-" target="_blank">
-  <img width="220" src="linkedin.svg" alt="LinkedIn"/>
+  <img width="150" src="linkedin.svg" alt="LinkedIn"/>
 </a>
 <a href="mailto:faletehanalfarabi09@gmail.com">
-  <img width="220" src="gmail.svg" alt="Gmail"/>
+  <img width="150" src="gmail.svg" alt="Gmail"/>
 </a>
-<br>
 <a href="https://youtube.com/@444flthn" target="_blank">
-  <img width="220" src="youtube.svg" alt="YouTube"/>
+  <img width="150" src="youtube.svg" alt="YouTube"/>
 </a>
 <a href="https://www.instagram.com/faalen_portofolio/" target="_blank">
-  <img width="220" src="instagram.svg" alt="Instagram"/>
+  <img width="150" src="instagram.svg" alt="Instagram"/>
 </a>
-<br>
 <a href="https://t.me/faalenn" target="_blank">
-  <img width="220" src="telegram.svg" alt="Telegram"/>
+  <img width="150" src="telegram.svg" alt="Telegram"/>
 </a>
 
 </div>
