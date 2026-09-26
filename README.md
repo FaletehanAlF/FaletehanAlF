@@ -131,7 +131,7 @@ I enjoy turning ideas into **functional, responsive, and user-centered applicati
 <p>I'm always open to interesting projects, collaborations, internships, and learning opportunities.</p>
 
 <a href="https://www.linkedin.com/in/faletehan-al-farabi-" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img width="220" src="linkedin.svg" alt="LinkedIn"/>
 </a>
 <a href="mailto:faletehanalfarabi09@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
