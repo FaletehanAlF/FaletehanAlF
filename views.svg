@@ -87,7 +87,7 @@
                begin="0.0s" repeatCount="indefinite"/>
     </circle>
     <text x="79" y="56.0" font-family="'Fira Code',ui-monospace,monospace"
-          font-size="9.5" letter-spacing="1.6" fill="#60a5fa"><tspan id="views-count">0</tspan> TOTAL VIEWS</text>
+          font-size="9.5" letter-spacing="1.6" fill="#60a5fa"><tspan id="views-count">469</tspan> TOTAL VIEWS</text>
   </g>
 
   <!-- arrow -->
