@@ -1,121 +1,140 @@
 <div align="center">
 
 <img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Faletehan%20Al%20Farabi&fontSize=48&fontColor=FCF8F8&fontAlign=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Web%20Developer&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn&color=0:2b5876,100:4e4376"
-alt="Faletehan Al Farabi"
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Faletehan%20Al%20Farabi&fontSize=48&fontColor=FCF8F8&fontAlign=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Web%20Developer&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn&color=0:2b5876,100:4e4376"
+  alt="Faletehan Al Farabi"
 />
 
-<br>
-
 <img
-src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=4E4376&center=true&vCenter=true&width=560&lines=Software+Engineering;Web+Developer;Fullstack+Developer;UI%2FUX+Designer;Cyber+Security;Mobile+App+Developer"
-alt="Typing SVG"
+  src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=4E4376&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;React+%26+Next.js+Enthusiast;Clean+%26+Responsive+UI+Builder;Exploring+AI+%7C+UI%2FUX+%7C+Cyber+Security"
+  alt="Typing SVG"
 />
 
 <p>
-  Building modern, responsive, and user-friendly web applications while continuously exploring new technologies.
+  I build modern, responsive, and user-friendly web applications.
+  Focused on clean code, great UX, and continuous learning.
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=FaletehanAlF&label=Profile%20Views&color=4e4376&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/FaletehanAlF?label=Followers&style=for-the-badge&color=2b5876" alt="GitHub Followers" />
+<img src="https://img.shields.io/badge/Open_to-Collaboration-4e4376?style=for-the-badge" alt="Open to Collaboration" />
 
 </div>
 
-<br>
+---
 
-## About Me
+## 👋 About Me
 
-Halo, saya **Faletehan Al Farabi**, pelajar **Rekayasa Perangkat Lunak (RPL)** di **SMK Taruna Bhakti** yang memiliki ketertarikan pada pengembangan aplikasi web modern dan desain antarmuka yang intuitif.
+I'm **Faletehan Al Farabi**, a **Software Engineering (RPL) student at SMK Taruna Bhakti** passionate about building modern web experiences and intuitive interfaces.
 
-Saya senang mengubah ide menjadi aplikasi yang **fungsional, responsif, dan mudah digunakan**, sekaligus terus memperdalam kemampuan software development melalui berbagai proyek dan eksplorasi teknologi.
+I enjoy turning ideas into **functional, responsive, and user-centered applications**, while sharpening my skills through real-world projects and exploring new technologies.
 
-* Fokus pada **Web Development**
-* Mengembangkan aplikasi dengan **React & Next.js**
-* Mendalami **JavaScript & TypeScript**
-* Tertarik pada **UI/UX Design**
-* Mengeksplorasi **Artificial Intelligence**
-* Memiliki ketertarikan pada **Cyber Security**
-* Mempelajari **Mobile App Development**
-* Terbiasa menggunakan **Git & GitHub**
-* Belajar melalui **real-world projects**
+- 🔭 Currently focused on **Full-Stack Web Development with React, Next.js & TypeScript**
+- 🌱 Learning **Backend Architecture, UI/UX Design, and AI Integration**
+- 💡 Interested in **Cyber Security & Mobile App Development**
+- 🎯 Goal: Become a **professional Software Engineer** building impactful products
+- 📫 Reach me at **faletehanalfarabi09@gmail.com**
+- ⚡ Fun fact: I learn best by **building, breaking, and rebuilding projects**
 
-<br>
+---
 
-## Tech Stack
+## 💼 What I Do
 
-**Frontend**
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>🎨 Frontend</h4>
+      <p>Responsive, accessible, and modern interfaces with React ecosystem</p>
+    </td>
+    <td align="center" width="33%">
+      <h4>⚙️ Backend</h4>
+      <p>REST APIs, authentication, and database-driven applications</p>
+    </td>
+    <td align="center" width="33%">
+      <h4>🚀 Growth</h4>
+      <p>UI/UX, AI tools, security basics, and real-project workflows with Git</p>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,vue,flutter" />
-</p>
+---
 
-**Backend**
+## 🛠️ Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,go" />
-</p>
+<div align="center">
 
-**Database & Backend Services**
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite,vue,flutter" alt="Frontend" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase,firebase" />
-</p>
+### Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,go" alt="Backend" />
 
-**Tools & Design**
+### Database & Cloud
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase,firebase,vercel,netlify" alt="Database & Cloud" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,ai,vercel,netlify,docker,postman" />
-</p>
+### Tools & Design
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,docker,postman" alt="Tools" />
 
-<br>
+</div>
 
-## GitHub Analytics
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
 <img
-src="https://github-readme-stats.shion.dev/api?username=FaletehanAlF&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false"
-alt="Faletehan GitHub Stats"
+  width="49%"
+  src="https://github-readme-stats.shion.dev/api?username=FaletehanAlF&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false"
+  alt="GitHub Stats"
+/><img
+  width="49%"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=FaletehanAlF&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
+  alt="Top Languages"
 />
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com/?user=FaletehanAlF&theme=blue_navy&hide_border=false"
-alt="GitHub Streak"
+  width="100%"
+  src="https://streak-stats.demolab.com/?user=FaletehanAlF&theme=blue_navy&hide_border=false"
+  alt="GitHub Streak"
 />
 
 <br><br>
 
 <img
-src="https://github-readme-stats.shion.dev/api/top-langs/?username=FaletehanAlF&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact"
-alt="Top Languages"
+  width="100%"
+  src="https://raw.githubusercontent.com/FaletehanAlF/FaletehanAlF/activity-graph-output/activity-graph.svg"
+  alt="Activity Graph"
 />
 
 </div>
 
-<br>
+---
 
-## Galaga
+## 🕹️ Contribution Arcade
 
 <div align="center">
+
+<p>Consistency is the game. Every commit is progress.</p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FaletehanAlF/FaletehanAlF/output/galaga-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FaletehanAlF/FaletehanAlF/output/galaga-contribution-graph.svg">
-  <img alt="galaga contribution graph" src="https://raw.githubusercontent.com/FaletehanAlF/FaletehanAlF/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/FaletehanAlF/FaletehanAlF/output/galaga-contribution-graph.svg">
 </picture>
+
 </div>
 
-<br>
+---
 
-## Let's Connect
+## 🌐 Let's Connect
 
 <div align="center">
 
-I'm always open to interesting projects, collaborations, and opportunities to learn and grow together.
-
-<br><br>
+<p>I'm always open to interesting projects, collaborations, internships, and learning opportunities.</p>
 
 <a href="https://www.linkedin.com/in/faletehan-al-farabi-" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -135,10 +154,11 @@ I'm always open to interesting projects, collaborations, and opportunities to le
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
   <img
+    width="100%"
     src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:2b5876,100:4e4376"
     alt="Footer"
   />
