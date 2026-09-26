@@ -2,13 +2,8 @@
 
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Faletehan%20Al%20Farabi&fontSize=48&fontColor=FCF8F8&fontAlign=50&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20Web%20Developer&descSize=18&descAlign=50&descAlignY=58&animation=fadeIn&color=0:2b5876,100:4e4376"
+  src="hero.svg"
   alt="Faletehan Al Farabi"
-/>
-
-<img
-  src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=4E4376&center=true&vCenter=true&width=620&lines=Full-Stack+Web+Developer;React+%26+Next.js+Enthusiast;Clean+%26+Responsive+UI+Builder;Exploring+AI+%7C+UI%2FUX+%7C+Cyber+Security"
-  alt="Typing SVG"
 />
 
 <p>
@@ -101,14 +96,6 @@ I enjoy turning ideas into **functional, responsive, and user-centered applicati
   width="495"
   src="https://streak-stats.demolab.com/?user=FaletehanAlF&theme=blue_navy&hide_border=true"
   alt="GitHub Streak"
-/>
-
-<br>
-
-<img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=FaletehanAlF&theme=react-dark&hide_border=true&area=true&radius=16"
-  alt="Activity Graph"
 />
 
 </div>
