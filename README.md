@@ -70,12 +70,12 @@ I build **modern, responsive, and user-centered web applications** and learn bes
 
 <img
   height="150"
-  src="https://github-readme-stats.shion.dev/api?username=FaletehanAlF&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false"
+  src="https://github-readme-stats.shion.dev/api?username=FaletehanAlF&theme=blue_navy&include_all_commits=true&count_private=false&title_color=38bdf8&text_color=7dd3fc&icon_color=38bdf8&bg_color=070d1a&border_color=38bdf8&border_radius=18"
   alt="GitHub Stats"
 />
 <img
   height="150"
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=FaletehanAlF&theme=blue_navy&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=FaletehanAlF&theme=blue_navy&include_all_commits=true&count_private=false&layout=compact&title_color=38bdf8&text_color=7dd3fc&bg_color=070d1a&border_color=38bdf8&border_radius=18"
   alt="Top Languages"
 />
 
@@ -83,7 +83,7 @@ I build **modern, responsive, and user-centered web applications** and learn bes
 
 <img
   width="495"
-  src="https://streak-stats.demolab.com/?user=FaletehanAlF&theme=blue_navy&hide_border=true"
+  src="https://streak-stats.demolab.com/?user=FaletehanAlF&theme=blue_navy&background=070D1A&border=38BDF8&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=7DD3FC&currStreakLabel=38BDF8&sideLabels=7DD3FC&dates=7DD3FC&border_radius=18"
   alt="GitHub Streak"
 />
 

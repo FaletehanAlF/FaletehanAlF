@@ -16,8 +16,6 @@
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
   @keyframes drift { 0% { transform: translateX(0); } 50% { transform: translateX(14px); } 100% { transform: translateX(0); } }
   @keyframes scan { 0% { transform: translateY(-40px); } 100% { transform: translateY(470px); } }
-  .spin { transform-origin: 450px 185px; animation: spin 14s linear infinite; }
-  @keyframes spin { to { transform: rotate(360deg); } }
 </style>
 <radialGradient id="aboutBg" cx="50%" cy="15%" r="90%">
   <stop offset="0%" stop-color="#0a1c33"/>
@@ -45,7 +43,7 @@
   <stop offset="50%" stop-color="#ffffff" stop-opacity="0.05"/>
   <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
 </linearGradient>
-<clipPath id="photoClip"><circle cx="450" cy="185" r="76"/></clipPath>
+<clipPath id="photoClip"><rect x="360" y="95" width="180" height="180" rx="20"/></clipPath>
 </defs>
 <rect x="0" y="0" width="900" height="430" rx="18" fill="url(#aboutBg)"/>
 <rect x="0" y="0" width="900" height="430" rx="18" fill="url(#aboutVig)"/>
@@ -63,24 +61,28 @@
 <rect x="0" y="0" width="900" height="40" fill="url(#aboutScan)" style="animation: scan 6s linear infinite;"/>
 <text x="450" y="52" text-anchor="middle" class="label">ABOUT ME</text>
 <rect class="glowbar" x="390" y="62" width="120" height="2" fill="#38bdf8" filter="url(#aboutGlow)"/>
-<!-- PHOTO RING -->
-<circle cx="450" cy="185" r="94" fill="none" stroke="#2563eb" stroke-width="1.2" opacity="0.5"/>
-<circle class="spin" cx="450" cy="185" r="94" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="24 18" opacity="0.9" filter="url(#aboutGlow)"/>
-<circle class="pulse-ring" cx="450" cy="185" r="86" fill="none" stroke="#38bdf8" stroke-width="1.5" filter="url(#aboutGlow)"/>
-<circle cx="450" cy="185" r="78" fill="#0a1e3a" stroke="#38bdf8" stroke-width="1.5"/>
+<!-- PHOTO FRAME -->
+<rect class="pulse-ring" x="352" y="87" width="196" height="196" rx="24" fill="none" stroke="#38bdf8" stroke-width="1.5" filter="url(#aboutGlow)"/>
+<rect x="360" y="95" width="180" height="180" rx="20" fill="#0a1e3a" stroke="#38bdf8" stroke-width="1.5"/>
 <!--
   CARA PASANG FOTO:
   1. Siapkan foto persegi (mis. profile.jpg)
   2. Minta saya embed, atau ganti grup placeholder di bawah ini dengan:
-     <g clip-path="url(#photoClip)"><image href="data:image/jpeg;base64,..." x="372" y="107" width="156" height="156" preserveAspectRatio="xMidYMid slice"/></g>
+     <g clip-path="url(#photoClip)"><image href="data:image/jpeg;base64,..." x="360" y="95" width="180" height="180" preserveAspectRatio="xMidYMid slice"/></g>
   SVG yang ditampilkan via README harus self-contained (base64), jadi href file luar tidak akan tampil di GitHub.
 -->
 <g clip-path="url(#photoClip)">
-  <rect x="372" y="107" width="156" height="156" fill="#0a1e3a"/>
-  <text x="450" y="198" text-anchor="middle" class="initials">FA</text>
-  <text x="450" y="222" text-anchor="middle" class="hint">ADD PHOTO</text>
+  <rect x="360" y="95" width="180" height="180" fill="#0a1e3a"/>
+  <text x="450" y="192" text-anchor="middle" class="initials">FA</text>
+  <text x="450" y="216" text-anchor="middle" class="hint">ADD PHOTO</text>
 </g>
-<rect class="trace" x="364" y="99" width="172" height="172" rx="86" stroke="#38bdf8"/>
+<rect class="trace" x="360" y="95" width="180" height="180" rx="20" stroke="#38bdf8"/>
+<g stroke="#7dd3fc" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.9">
+  <path d="M352 103 V95 a8 8 0 0 1 8-8 H368"/>
+  <path d="M548 103 V95 a8 8 0 0 0-8-8 H532"/>
+  <path d="M352 267 V275 a8 8 0 0 0 8 8 H368"/>
+  <path d="M548 267 V275 a8 8 0 0 1-8 8 H532"/>
+</g>
 <text x="450" y="312" text-anchor="middle" class="name" filter="url(#aboutSoft)">FALETEHAN AL FARABI</text>
 <text x="450" y="336" text-anchor="middle" class="role">SOFTWARE ENGINEERING (RPL) — SMK TARUNA BHAKTI</text>
 <g>
