@@ -84,10 +84,4 @@
 <text x="307" y="235" text-anchor="start" class="ach" clip-path="url(#clip2)">REACT · NEXT.JS · TYPESCRIPT</text>
 <text x="267" y="235" text-anchor="start" class="ach" clip-path="url(#clip3)">UI/UX · AI · CYBER SECURITY EXPLORER</text>
 
-<g>
-<rect x="356" y="280" width="188" height="42" rx="10" fill="#0a1e3a" stroke="#38bdf8" stroke-width="1.4" filter="url(#glow3)"/>
-<rect class="trace" x="356" y="280" width="188" height="42" rx="10" stroke="#38bdf8"/>
-<circle cx="378" cy="301" r="4" fill="#22c55e"/>
-<text x="454" y="306" text-anchor="middle" class="status-text">OPEN TO WORK</text>
-</g>
 </svg>
