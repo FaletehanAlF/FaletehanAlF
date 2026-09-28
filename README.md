@@ -34,14 +34,6 @@
 
 </div>
 
-I'm **Faletehan Al Farabi**, a **Software Engineering (RPL) student at SMK Taruna Bhakti**.
-I build **modern, responsive, and user-centered web applications** and learn best by turning ideas into real projects.
-
-- **Current focus:** Full-Stack Web Development with **React, Next.js and TypeScript**
-- **Currently learning:** Backend Architecture, UI/UX Design, and AI Integration
-- **Goal:** To become a **professional Software Engineer** who builds impactful products
-- **Contact:** **faletehanalfarabi09@gmail.com** — open to collaboration, internships, and learning opportunities
-
 ---
 
 ## Tech Stack
