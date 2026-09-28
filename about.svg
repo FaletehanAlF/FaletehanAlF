@@ -6,7 +6,7 @@
   .label { font-family: 'Fira Code','JetBrains Mono',ui-monospace,monospace; font-size: 12px; letter-spacing: 4px; fill: #7dd3fc; }
   .initials { font-family: 'Segoe UI', Arial, sans-serif; font-weight: 800; font-size: 42px; fill: #ffffff; }
   .hint { font-family: 'Fira Code',ui-monospace,monospace; font-size: 10px; letter-spacing: 2px; fill: #7dd3fc; }
-  .desc { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13.5px; fill: #cbd5e1; }
+  .desc { font-family: 'Segoe UI', Arial, sans-serif; font-size: 12.5px; fill: #cbd5e1; }
   .bullet { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; fill: #cbd5e1; }
   .b { font-weight: 700; fill: #7dd3fc; }
   .corner { stroke: #38bdf8; stroke-width: 2; fill: none; opacity: .8; }
@@ -69,18 +69,18 @@
 <line x1="600" y1="112" x2="600" y2="368" stroke="#38bdf8" stroke-opacity="0.15" stroke-width="1.5"/>
 <!-- LEFT: DESKRIPSI -->
 <text x="72" y="143" class="name" style="font-size:24px" filter="url(#aboutSoft)">FALETEHAN AL FARABI</text>
-<text x="72" y="167" class="role">SOFTWARE ENGINEERING (RPL) — SMK TARUNA BHAKTI</text>
+<text x="72" y="167" class="role">SOFTWARE ENGINEERING STUDENT - FULLSTACK DEVELOPER</text>
 <rect class="glowbar" x="72" y="180" width="90" height="2" fill="#38bdf8" filter="url(#aboutGlow)"/>
-<text x="72" y="208" class="desc">Passionate Software Engineering (RPL) student at</text>
-<text x="72" y="227" class="desc">SMK Taruna Bhakti. I build modern, responsive,</text>
-<text x="72" y="246" class="desc">and user-centered web apps by turning ideas into real projects.</text>
-<circle cx="78" cy="270" r="3.5" fill="#38bdf8"/>
-<text x="92" y="274" class="bullet"><tspan class="b">Current focus: </tspan>React, Next.js &amp; TypeScript</text>
-<circle cx="78" cy="294" r="3.5" fill="#38bdf8"/>
-<text x="92" y="298" class="bullet"><tspan class="b">Learning: </tspan>Backend, UI/UX &amp; AI Integration</text>
-<circle cx="78" cy="318" r="3.5" fill="#38bdf8"/>
-<text x="92" y="322" class="bullet"><tspan class="b">Goal: </tspan>Professional Software Engineer</text>
-<text x="72" y="356" class="hint">REACT • NEXT.JS • TYPESCRIPT • UI/UX • AI</text>
+<text x="72" y="206" class="desc">I am a Software Engineering student at SMK Taruna Bhakti with</text>
+<text x="72" y="222" class="desc">a strong interest in Software Engineering and Full-Stack Web</text>
+<text x="72" y="238" class="desc">Development. I enjoy learning new technologies, developing</text>
+<text x="72" y="254" class="desc">various projects, and improving my skills through hands-on</text>
+<text x="72" y="270" class="desc">experience and self-directed learning.</text>
+<text x="72" y="292" class="desc">I believe that the learning process comes not only from technology,</text>
+<text x="72" y="308" class="desc">but also from the experience of collaborating, communicating,</text>
+<text x="72" y="324" class="desc">and solving problems. Moving forward, I want to continue growing</text>
+<text x="72" y="340" class="desc">as a Software Engineer and build useful, user-centered digital solutions.</text>
+<text x="72" y="366" class="hint">REACT • NEXT.JS • TYPESCRIPT • UI/UX • AI</text>
 <!-- RIGHT: FOTO -->
 <rect class="pulse-ring" x="634" y="142" width="196" height="196" rx="24" fill="none" stroke="#38bdf8" stroke-width="1.5" filter="url(#aboutGlow)"/>
 <rect x="642" y="150" width="180" height="180" rx="20" fill="#0a1e3a" stroke="#38bdf8" stroke-width="1.5"/>
@@ -94,5 +94,4 @@
   <path d="M634 322 V330 a8 8 0 0 0 8 8 H650"/>
   <path d="M830 322 V330 a8 8 0 0 1-8 8 H822"/>
 </g>
-<text x="732" y="362" text-anchor="middle" class="hint">SMK TARUNA BHAKTI</text>
 </svg>
