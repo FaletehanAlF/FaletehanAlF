@@ -11,6 +11,7 @@ Usage (local):
 Usage (CI): GH_TOKEN / GITHUB_TOKEN is picked up automatically for higher rate limits.
 """
 
+import base64
 import collections
 import datetime
 import json
@@ -59,6 +60,55 @@ def meta_for(lang):
         return LANG_META[lang]
     short = re.sub(r"[^A-Za-z0-9+#]", "", lang)[:3].upper() or "??"
     return ("#38bdf8", "#04121f", short)
+
+
+# Devicon paths for real language logos (inlined as base64 data URIs, same
+# pattern skills.svg already uses, so they render inside README <img> context).
+DEVICON_BASE = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons"
+ICON_PATH = {
+    "JavaScript": "javascript/javascript-original.svg",
+    "TypeScript": "typescript/typescript-original.svg",
+    "HTML": "html5/html5-original.svg",
+    "CSS": "css3/css3-original.svg",
+    "PHP": "php/php-original.svg",
+    "Dart": "dart/dart-original.svg",
+    "Python": "python/python-original.svg",
+    "Go": "go/go-original.svg",
+    "Vue": "vuejs/vuejs-original.svg",
+    "Java": "java/java-original.svg",
+    "C++": "cplusplus/cplusplus-original.svg",
+    "C": "c/c-original.svg",
+    "C#": "csharp/csharp-original.svg",
+    "Kotlin": "kotlin/kotlin-original.svg",
+    "Swift": "swift/swift-original.svg",
+    "Ruby": "ruby/ruby-original.svg",
+    "Rust": "rust/rust-original.svg",
+    "SCSS": "sass/sass-original.svg",
+    "Less": "less/less-plain-wordmark.svg",
+}
+
+_icon_cache = {}
+
+
+def icon_uri(lang):
+    """Return a data: URI with the real language logo, or None on failure."""
+    if lang in _icon_cache:
+        return _icon_cache[lang]
+    path = ICON_PATH.get(lang)
+    if not path:
+        _icon_cache[lang] = None
+        return None
+    try:
+        req = urllib.request.Request(f"{DEVICON_BASE}/{path}", headers={"User-Agent": "analytics-updater"})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            raw = r.read()
+        uri = "data:image/svg+xml;base64," + base64.b64encode(raw).decode("ascii")
+        _icon_cache[lang] = uri
+        return uri
+    except Exception as e:
+        print(f"WARN: icon fetch failed for {lang}: {e}", file=sys.stderr)
+        _icon_cache[lang] = None
+        return None
 
 
 def fetch_json(url):
@@ -113,20 +163,27 @@ def build_rows(top5, total, top_bytes):
     out = []
     for i, (lang, byte_count) in enumerate(top5, start=1):
         color, txt, abbr = meta_for(lang)
+        uri = icon_uri(lang)
         pct = (byte_count / total * 100) if total else 0
         width = round(byte_count / top_bytes * TRACK_W) if top_bytes else 0
         width = max(width, 24)
         label_y = 156 + (i - 1) * 48
         bar_y = label_y + 8
         clip = f"barClip{i}"
-        logo_fs = "10" if len(abbr) <= 2 else ("8.5" if len(abbr) == 3 else "8")
+        if uri:
+            logo = f'  <image href="{uri}" x="788" y="{label_y - 18}" width="26" height="26"><title>{esc(lang)}</title></image>'
+        else:
+            logo_fs = "10" if len(abbr) <= 2 else ("8.5" if len(abbr) == 3 else "8")
+            logo = (
+                f'  <rect x="786" y="{label_y - 15}" width="34" height="20" rx="6" fill="{color}" stroke="{color}" stroke-opacity="0.4"/>\n'
+                f'  <text x="803" y="{label_y - 1}" text-anchor="middle" class="logo-txt" fill="{txt}" font-size="{logo_fs}">{esc(abbr)}</text>'
+            )
         out.append(f"<!-- ROW {i} : {esc(lang)} {pct:.1f}% -->")
         out.append(f'<g class="rise" style="animation-delay:{LABEL_DELAYS[i-1]}">')
         out.append(f'  <circle cx="86" cy="{label_y - 4}" r="5" fill="{color}" filter="url(#anaGlow)"/>')
         out.append(f'  <text x="100" y="{label_y}" class="stat-label">{esc(lang).upper()}</text>')
         out.append(f'  <text x="776" y="{label_y}" text-anchor="end" class="pct">{pct:.1f}%</text>')
-        out.append(f'  <rect x="786" y="{label_y - 15}" width="34" height="20" rx="6" fill="{color}" stroke="{color}" stroke-opacity="0.4"/>')
-        out.append(f'  <text x="803" y="{label_y - 1}" text-anchor="middle" class="logo-txt" fill="{txt}" font-size="{logo_fs}">{esc(abbr)}</text>')
+        out.append(logo)
         out.append("</g>")
         out.append(f'<g class="rise" style="animation-delay:{BAR_DELAYS[i-1]}">')
         out.append(f'  <rect x="80" y="{bar_y}" width="{TRACK_W}" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>')

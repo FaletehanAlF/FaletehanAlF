@@ -17,12 +17,6 @@
     95% { transform: translate(3px,-1px); opacity: .7; }
     97% { transform: translate(-2px,0); opacity: .5; }
   }
-  .clip1 rect { animation: type1 12s infinite; }
-  .clip2 rect { animation: type2 12s infinite; }
-  .clip3 rect { animation: type3 12s infinite; }
-  @keyframes type1 { 0%{width:0} 3%{width:0} 11%{width:316px} 27%{width:316px} 33%{width:0} 100%{width:0} }
-  @keyframes type2 { 0%{width:0} 33%{width:0} 36%{width:0} 44%{width:286px} 60%{width:286px} 66%{width:0} 100%{width:0} }
-  @keyframes type3 { 0%{width:0} 66%{width:0} 69%{width:0} 77%{width:367px} 95%{width:367px} 100%{width:0} }
 </style>
 
 <radialGradient id="bgGrad3" cx="50%" cy="20%" r="90%">
@@ -76,12 +70,6 @@
 
 <rect class="glowbar" x="380" y="164" width="140" height="2.5" fill="#38bdf8" filter="url(#glow3)"/>
 
-<clipPath id="clip1" class="clip1"><rect x="292" y="215" width="0" height="30"/></clipPath>
-<clipPath id="clip2" class="clip2"><rect x="307" y="215" width="0" height="30"/></clipPath>
-<clipPath id="clip3" class="clip3"><rect x="267" y="215" width="0" height="30"/></clipPath>
-
-<text x="292" y="235" text-anchor="start" class="ach" clip-path="url(#clip1)">RPL STUDENT · SMK TARUNA BHAKTI</text>
-<text x="307" y="235" text-anchor="start" class="ach" clip-path="url(#clip2)">REACT · NEXT.JS · TYPESCRIPT</text>
-<text x="267" y="235" text-anchor="start" class="ach" clip-path="url(#clip3)">UI/UX · AI · CYBER SECURITY EXPLORER</text>
+<text x="450" y="235" text-anchor="middle" class="ach">RPL STUDENT · SMK TARUNA BHAKTI</text>
 
 </svg>
