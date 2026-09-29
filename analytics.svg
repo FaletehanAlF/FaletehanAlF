@@ -1,15 +1,16 @@
-<svg width="900" height="380" viewBox="0 0 900 380" xmlns="http://www.w3.org/2000/svg">
+<svg width="900" height="440" viewBox="0 0 900 440" xmlns="http://www.w3.org/2000/svg">
 <defs>
 <style>
-  .title { font-family: 'Fira Code','JetBrains Mono',ui-monospace,monospace; font-size: 28px; font-weight: 700; letter-spacing: 9px; fill: #ffffff; }
+  .title { font-family: 'Fira Code','JetBrains Mono',ui-monospace,monospace; font-size: 24px; font-weight: 700; letter-spacing: 6px; fill: #ffffff; }
   .corner { stroke: #38bdf8; stroke-width: 2; fill: none; opacity: .8; }
   .grid { stroke: #38bdf8; stroke-opacity: .06; stroke-width: 1; }
   .stat-label { font-family: 'Fira Code','JetBrains Mono',ui-monospace,monospace; font-size: 11px; letter-spacing: 2px; fill: #7dd3fc; }
   .pct { font-family: 'Segoe UI', Arial, sans-serif; font-size: 13px; font-weight: 800; fill: #ffffff; }
+  .logo-txt { font-family: 'Segoe UI', Arial, sans-serif; font-size: 10px; font-weight: 800; }
   .foot { font-family: 'Fira Code',ui-monospace,monospace; font-size: 10px; letter-spacing: 2px; fill: #7dd3fc; }
   .glowbar { animation: pulse 2.6s ease-in-out infinite; }
   @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: .25; } }
-  @keyframes scan { 0% { transform: translateY(-30px); } 100% { transform: translateY(410px); } }
+  @keyframes scan { 0% { transform: translateY(-30px); } 100% { transform: translateY(470px); } }
   /* entrance: garis muncul satu-satu smooth */
   @keyframes rise { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
   .rise { opacity: 0; animation: rise .7s cubic-bezier(.22,.61,.36,1) forwards; }
@@ -44,10 +45,6 @@
   <stop offset="80%" stop-color="#2563eb" stop-opacity="0.9"/>
   <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="anaBarGrad" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0%" stop-color="#2563eb"/>
-  <stop offset="100%" stop-color="#38bdf8"/>
-</linearGradient>
 <linearGradient id="anaShine" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
   <stop offset="50%" stop-color="#ffffff" stop-opacity="0.55"/>
@@ -62,24 +59,26 @@
   <stop offset="50%" stop-color="#ffffff" stop-opacity="0.05"/>
   <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
 </linearGradient>
-<clipPath id="barClip1"><rect x="80" y="164" width="740" height="10" rx="5"/></clipPath>
-<clipPath id="barClip2"><rect x="80" y="212" width="740" height="10" rx="5"/></clipPath>
-<clipPath id="barClip3"><rect x="80" y="260" width="740" height="10" rx="5"/></clipPath>
-<clipPath id="barClip4"><rect x="80" y="308" width="740" height="10" rx="5"/></clipPath>
+<clipPath id="barClip1"><rect x="80" y="164" width="700" height="10" rx="5"/></clipPath>
+<clipPath id="barClip2"><rect x="80" y="212" width="700" height="10" rx="5"/></clipPath>
+<clipPath id="barClip3"><rect x="80" y="260" width="700" height="10" rx="5"/></clipPath>
+<clipPath id="barClip4"><rect x="80" y="308" width="700" height="10" rx="5"/></clipPath>
+<clipPath id="barClip5"><rect x="80" y="356" width="700" height="10" rx="5"/></clipPath>
 </defs>
-<rect x="0" y="0" width="900" height="380" rx="18" fill="url(#anaBg)"/>
-<rect x="0" y="0" width="900" height="380" rx="18" fill="url(#anaVig)"/>
+<!-- last-updated: 2026-09-29 | source: GitHub linguist bytes (public repos) | auto-updated by .github/workflows/update-analytics.yml -->
+<rect x="0" y="0" width="900" height="440" rx="18" fill="url(#anaBg)"/>
+<rect x="0" y="0" width="900" height="440" rx="18" fill="url(#anaVig)"/>
 <line class="grid" x1="0" y1="90" x2="900" y2="90"/>
 <line class="grid" x1="0" y1="215" x2="900" y2="215"/>
 <line class="grid" x1="0" y1="330" x2="900" y2="330"/>
-<rect x="3" y="3" width="894" height="374" rx="16" fill="none" stroke="url(#anaFrame)" stroke-width="2" opacity="0.55"/>
+<rect x="3" y="3" width="894" height="434" rx="16" fill="none" stroke="url(#anaFrame)" stroke-width="2" opacity="0.55"/>
 <path class="corner" d="M24 60 L24 24 L60 24"/>
 <path class="corner" d="M876 60 L876 24 L840 24"/>
-<path class="corner" d="M24 320 L24 356 L60 356"/>
-<path class="corner" d="M876 320 L876 356 L840 356"/>
+<path class="corner" d="M24 380 L24 416 L60 416"/>
+<path class="corner" d="M876 380 L876 416 L840 416"/>
 <rect x="0" y="0" width="900" height="30" fill="url(#anaScan)" style="animation: scan 5s linear infinite;"/>
 <g filter="url(#anaGlow)" class="rise" style="animation-delay:.05s">
-  <text x="450" y="62" text-anchor="middle" class="title" fill="#38bdf8">ANALYTICS</text>
+  <text x="450" y="62" text-anchor="middle" class="title">MOST USED LANGUAGES</text>
 </g>
 <rect class="glowbar rise" x="390" y="74" width="120" height="2" fill="#38bdf8" filter="url(#anaGlow)" style="animation-delay:.15s"/>
 <rect class="rise" x="80" y="102" width="740" height="1.6" fill="url(#anaRule)" style="animation-delay:.25s">
@@ -91,56 +90,84 @@
     <animate attributeName="opacity" values="0;1;1;0" dur="5s" repeatCount="indefinite"/>
   </circle>
 </g>
-<!-- ROW 1 -->
+<!-- ROWS-START (auto-generated by scripts/update-analytics.py, do not edit manually) -->
+<!-- ROW 1 : JavaScript 26.0% -->
 <g class="rise" style="animation-delay:.35s">
-  <text x="80" y="156" class="stat-label">FULL-STACK DEVELOPMENT</text>
-  <text x="820" y="156" text-anchor="end" class="pct">92%</text>
+  <circle cx="86" cy="152" r="5" fill="#F7DF1E" filter="url(#anaGlow)"/>
+  <text x="100" y="156" class="stat-label">JAVASCRIPT</text>
+  <text x="776" y="156" text-anchor="end" class="pct">26.0%</text>
+  <rect x="786" y="141" width="34" height="20" rx="6" fill="#F7DF1E" stroke="#F7DF1E" stroke-opacity="0.4"/>
+  <text x="803" y="155" text-anchor="middle" class="logo-txt" fill="#000000" font-size="10">JS</text>
 </g>
 <g class="rise" style="animation-delay:.45s">
-  <rect x="80" y="164" width="740" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
-  <rect class="bar-fill" x="80" y="164" width="681" height="10" rx="5" fill="url(#anaBarGrad)" filter="url(#anaGlow)" style="animation-delay:.6s"/>
+  <rect x="80" y="164" width="700" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
+  <rect class="bar-fill" x="80" y="164" width="700" height="10" rx="5" fill="#F7DF1E" filter="url(#anaGlow)" style="animation-delay:.6s"/>
   <g clip-path="url(#barClip1)"><rect class="shine" x="80" y="164" width="80" height="10" fill="url(#anaShine)" style="animation-delay:.6s"/></g>
-  <circle class="tip" cx="761" cy="169" r="3" fill="#ffffff" filter="url(#anaGlow)"/>
+  <circle class="tip" cx="780" cy="169" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:0s"/>
 </g>
-<!-- ROW 2 -->
+<!-- ROW 2 : CSS 17.7% -->
 <g class="rise" style="animation-delay:.55s">
-  <text x="80" y="204" class="stat-label">FRONTEND // REACT - NEXT.JS</text>
-  <text x="820" y="204" text-anchor="end" class="pct">88%</text>
+  <circle cx="86" cy="200" r="5" fill="#1572B6" filter="url(#anaGlow)"/>
+  <text x="100" y="204" class="stat-label">CSS</text>
+  <text x="776" y="204" text-anchor="end" class="pct">17.7%</text>
+  <rect x="786" y="189" width="34" height="20" rx="6" fill="#1572B6" stroke="#1572B6" stroke-opacity="0.4"/>
+  <text x="803" y="203" text-anchor="middle" class="logo-txt" fill="#ffffff" font-size="8.5">CSS</text>
 </g>
 <g class="rise" style="animation-delay:.65s">
-  <rect x="80" y="212" width="740" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
-  <rect class="bar-fill" x="80" y="212" width="651" height="10" rx="5" fill="url(#anaBarGrad)" filter="url(#anaGlow)" style="animation-delay:.8s"/>
+  <rect x="80" y="212" width="700" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
+  <rect class="bar-fill" x="80" y="212" width="475" height="10" rx="5" fill="#1572B6" filter="url(#anaGlow)" style="animation-delay:.8s"/>
   <g clip-path="url(#barClip2)"><rect class="shine" x="80" y="212" width="80" height="10" fill="url(#anaShine)" style="animation-delay:1.1s"/></g>
-  <circle class="tip" cx="731" cy="217" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:.4s"/>
+  <circle class="tip" cx="555" cy="217" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:.4s"/>
 </g>
-<!-- ROW 3 -->
+<!-- ROW 3 : Dart 17.3% -->
 <g class="rise" style="animation-delay:.75s">
-  <text x="80" y="252" class="stat-label">CONSISTENCY // COMMITS</text>
-  <text x="820" y="252" text-anchor="end" class="pct">76%</text>
+  <circle cx="86" cy="248" r="5" fill="#0175C2" filter="url(#anaGlow)"/>
+  <text x="100" y="252" class="stat-label">DART</text>
+  <text x="776" y="252" text-anchor="end" class="pct">17.3%</text>
+  <rect x="786" y="237" width="34" height="20" rx="6" fill="#0175C2" stroke="#0175C2" stroke-opacity="0.4"/>
+  <text x="803" y="251" text-anchor="middle" class="logo-txt" fill="#ffffff" font-size="10">D</text>
 </g>
 <g class="rise" style="animation-delay:.85s">
-  <rect x="80" y="260" width="740" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
-  <rect class="bar-fill" x="80" y="260" width="562" height="10" rx="5" fill="url(#anaBarGrad)" filter="url(#anaGlow)" style="animation-delay:1s"/>
+  <rect x="80" y="260" width="700" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
+  <rect class="bar-fill" x="80" y="260" width="464" height="10" rx="5" fill="#0175C2" filter="url(#anaGlow)" style="animation-delay:1s"/>
   <g clip-path="url(#barClip3)"><rect class="shine" x="80" y="260" width="80" height="10" fill="url(#anaShine)" style="animation-delay:1.6s"/></g>
-  <circle class="tip" cx="642" cy="265" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:.8s"/>
+  <circle class="tip" cx="544" cy="265" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:.8s"/>
 </g>
-<!-- ROW 4 -->
+<!-- ROW 4 : HTML 17.1% -->
 <g class="rise" style="animation-delay:.95s">
-  <text x="80" y="300" class="stat-label">UI-UX // AI EXPLORATION</text>
-  <text x="820" y="300" text-anchor="end" class="pct">69%</text>
+  <circle cx="86" cy="296" r="5" fill="#E34F26" filter="url(#anaGlow)"/>
+  <text x="100" y="300" class="stat-label">HTML</text>
+  <text x="776" y="300" text-anchor="end" class="pct">17.1%</text>
+  <rect x="786" y="285" width="34" height="20" rx="6" fill="#E34F26" stroke="#E34F26" stroke-opacity="0.4"/>
+  <text x="803" y="299" text-anchor="middle" class="logo-txt" fill="#ffffff" font-size="10">H5</text>
 </g>
 <g class="rise" style="animation-delay:1.05s">
-  <rect x="80" y="308" width="740" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
-  <rect class="bar-fill" x="80" y="308" width="511" height="10" rx="5" fill="url(#anaBarGrad)" filter="url(#anaGlow)" style="animation-delay:1.2s"/>
+  <rect x="80" y="308" width="700" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
+  <rect class="bar-fill" x="80" y="308" width="459" height="10" rx="5" fill="#E34F26" filter="url(#anaGlow)" style="animation-delay:1.2s"/>
   <g clip-path="url(#barClip4)"><rect class="shine" x="80" y="308" width="80" height="10" fill="url(#anaShine)" style="animation-delay:2.1s"/></g>
-  <circle class="tip" cx="591" cy="313" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:1.2s"/>
+  <circle class="tip" cx="539" cy="313" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:1.2s"/>
 </g>
+<!-- ROW 5 : PHP 8.9% -->
+<g class="rise" style="animation-delay:1.15s">
+  <circle cx="86" cy="344" r="5" fill="#777BB3" filter="url(#anaGlow)"/>
+  <text x="100" y="348" class="stat-label">PHP</text>
+  <text x="776" y="348" text-anchor="end" class="pct">8.9%</text>
+  <rect x="786" y="333" width="34" height="20" rx="6" fill="#777BB3" stroke="#777BB3" stroke-opacity="0.4"/>
+  <text x="803" y="347" text-anchor="middle" class="logo-txt" fill="#ffffff" font-size="8.5">PHP</text>
+</g>
+<g class="rise" style="animation-delay:1.25s">
+  <rect x="80" y="356" width="700" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
+  <rect class="bar-fill" x="80" y="356" width="240" height="10" rx="5" fill="#777BB3" filter="url(#anaGlow)" style="animation-delay:1.4s"/>
+  <g clip-path="url(#barClip5)"><rect class="shine" x="80" y="356" width="80" height="10" fill="url(#anaShine)" style="animation-delay:2.4s"/></g>
+  <circle class="tip" cx="320" cy="361" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:1.6s"/>
+</g>
+<!-- ROWS-END -->
 <!-- particles -->
-<circle class="particle" cx="120" cy="340" r="2" fill="#38bdf8" style="animation-delay:0s"/>
-<circle class="particle" cx="450" cy="345" r="2" fill="#7dd3fc" style="animation-delay:1.3s"/>
-<circle class="particle" cx="780" cy="340" r="2" fill="#38bdf8" style="animation-delay:2.6s"/>
+<circle class="particle" cx="120" cy="398" r="2" fill="#38bdf8" style="animation-delay:0s"/>
+<circle class="particle" cx="450" cy="403" r="2" fill="#7dd3fc" style="animation-delay:1.3s"/>
+<circle class="particle" cx="780" cy="398" r="2" fill="#38bdf8" style="animation-delay:2.6s"/>
 <!-- footer -->
 <g class="rise" style="animation-delay:1.4s">
-  <text x="450" y="352" text-anchor="middle" class="foot">LIVE SVG // REFRESH TO REPLAY<tspan class="cursor" fill="#ffffff">_</tspan></text>
+  <text x="450" y="410" text-anchor="middle" class="foot">MOST USED LANGUAGES // AUTO-UPDATED DAILY<tspan class="cursor" fill="#ffffff">_</tspan></text>
 </g>
 </svg>

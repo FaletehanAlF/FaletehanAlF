@@ -71,11 +71,6 @@
   src="https://github-readme-stats.shion.dev/api?username=FaletehanAlF&theme=blue_navy&include_all_commits=true&count_private=false&title_color=38bdf8&text_color=7dd3fc&icon_color=38bdf8&bg_color=070d1a&border_color=38bdf8&border_radius=18"
   alt="GitHub Stats"
 />
-<img
-  height="150"
-  src="https://github-readme-stats.shion.dev/api/top-langs/?username=FaletehanAlF&theme=blue_navy&include_all_commits=true&count_private=false&layout=compact&title_color=38bdf8&text_color=7dd3fc&bg_color=070d1a&border_color=38bdf8&border_radius=18"
-  alt="Top Languages"
-/>
 
 <br>
 
