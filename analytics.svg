@@ -65,7 +65,7 @@
 <clipPath id="barClip4"><rect x="80" y="308" width="700" height="10" rx="5"/></clipPath>
 <clipPath id="barClip5"><rect x="80" y="356" width="700" height="10" rx="5"/></clipPath>
 </defs>
-<!-- last-updated: 2026-09-30 | source: GitHub linguist bytes (public repos) | auto-updated by .github/workflows/update-analytics.yml -->
+<!-- last-updated: 2026-09-29 | source: GitHub linguist bytes (public repos) | auto-updated by .github/workflows/update-analytics.yml -->
 <rect x="0" y="0" width="900" height="440" rx="18" fill="url(#anaBg)"/>
 <rect x="0" y="0" width="900" height="440" rx="18" fill="url(#anaVig)"/>
 <line class="grid" x1="0" y1="90" x2="900" y2="90"/>
@@ -104,11 +104,11 @@
   <g clip-path="url(#barClip1)"><rect class="shine" x="80" y="164" width="80" height="10" fill="url(#anaShine)" style="animation-delay:.6s"/></g>
   <circle class="tip" cx="780" cy="169" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:0s"/>
 </g>
-<!-- ROW 2 : CSS 17.7% -->
+<!-- ROW 2 : CSS 17.6% -->
 <g class="rise" style="animation-delay:.55s">
   <circle cx="86" cy="200" r="5" fill="#1572B6" filter="url(#anaGlow)"/>
   <text x="100" y="204" class="stat-label">CSS</text>
-  <text x="776" y="204" text-anchor="end" class="pct">17.7%</text>
+  <text x="776" y="204" text-anchor="end" class="pct">17.6%</text>
   <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMTU3MkI2IiBkPSJNMTguODE0IDExNC4xMjNMOC43NiAxLjM1MmgxMTAuNDhsLTEwLjA2NCAxMTIuNzU0LTQ1LjI0MyAxMi41NDMtNDUuMTE5LTEyLjUyNnoiLz48cGF0aCBmaWxsPSIjMzNBOURDIiBkPSJNNjQuMDAxIDExNy4wNjJsMzYuNTU5LTEwLjEzNiA4LjYwMS05Ni4zNTRoLTQ1LjE2djEwNi40OXoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNNjQuMDAxIDUxLjQyOWgxOC4zMDJsMS4yNjQtMTQuMTYzSDY0LjAwMVYyMy40MzVoMzQuNjgybC0uMzMyIDMuNzExLTMuNCAzOC4xMTRoLTMwLjk1VjUxLjQyOXoiLz48cGF0aCBmaWxsPSIjRUJFQkVCIiBkPSJNNjQuMDgzIDg3LjM0OWwtLjA2MS4wMTgtMTUuNDAzLTQuMTU5LS45ODUtMTEuMDMxSDMzLjc1MmwxLjkzNyAyMS43MTcgMjguMzMxIDcuODYzLjA2My0uMDE4di0xNC4zOXoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNODEuMTI3IDY0LjY3NWwtMS42NjYgMTguNTIyLTE1LjQyNiA0LjE2NHYxNC4zOWwyOC4zNTQtNy44NTguMjA4LTIuMzM3IDIuNDA2LTI2Ljg4MUg4MS4xMjd6Ii8+PHBhdGggZmlsbD0iI0VCRUJFQiIgZD0iTTY0LjA0OCAyMy40MzV2MTMuODMxSDMwLjY0bC0uMjc3LTMuMTA4LS42My03LjAxMi0uMzMxLTMuNzExaDM0LjY0NnptLS4wNDcgMjcuOTk2djEzLjgzMUg0OC43OTJsLS4yNzctMy4xMDgtLjYzMS03LjAxMi0uMzMtMy43MTFoMTYuNDQ3eiIvPjwvc3ZnPg==" x="788" y="186" width="26" height="26"><title>CSS</title></image>
 </g>
 <g class="rise" style="animation-delay:.65s">
@@ -117,11 +117,11 @@
   <g clip-path="url(#barClip2)"><rect class="shine" x="80" y="212" width="80" height="10" fill="url(#anaShine)" style="animation-delay:1.1s"/></g>
   <circle class="tip" cx="555" cy="217" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:.4s"/>
 </g>
-<!-- ROW 3 : Dart 17.3% -->
+<!-- ROW 3 : Dart 17.2% -->
 <g class="rise" style="animation-delay:.75s">
   <circle cx="86" cy="248" r="5" fill="#0175C2" filter="url(#anaGlow)"/>
   <text x="100" y="252" class="stat-label">DART</text>
-  <text x="776" y="252" text-anchor="end" class="pct">17.3%</text>
+  <text x="776" y="252" text-anchor="end" class="pct">17.2%</text>
   <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMDBjNGIzIiBkPSJNMzUuMiAzNC45bC04LjMtOC4zdjU5LjdsLjEgMi44YzAgMS4zLjIgMi44LjcgNC4zbDY1LjYgMjMuMSAxNi4zLTcuMi03NC40LTc0LjR6Ii8+PHBhdGggZD0iTTI3LjcgOTMuNHptODEuOSAxNS45bC0xNi4zIDcuMi02NS40LTIzLjFjMS4zIDQuOCA0IDEwLjEgNyAxMy4ybDIxLjMgMjEuMiA0Ny42LjEgNS44LTE4LjZ6IiBmaWxsPSIjMjJkM2M1Ii8+PHBhdGggZmlsbD0iIzAwNzVjOSIgZD0iTTEuNyA2NS4xQy0uNCA2Ny4zLjcgNzIgNCA3NS41bDE0LjcgMTQuOCA5LjIgMy4zYy0uMy0xLjUtLjctMy0uNy00LjNsLS4xLTIuOC0uMi01OS44bTgyLjcgODIuNmw3LjItMTYuNC0yMy02NS42Yy0xLjUtLjMtMy0uNi00LjMtLjdsLTIuOS0uMS01OS42LjEiLz48cGF0aCBkPSJNOTMuNiAyNy4zYy4yIDAgLjIgMCAwIDAgLjIgMCAuMiAwIDAgMHptMTYgODJsMTcuNy01LjhWNTQuOGwtMjAuNC0yMC41Yy0zLTMtOC4zLTUuOC0xMy4yLTdsMjMuMSA2NS42IiBmaWxsPSIjMDBhOGUxIi8+PHBhdGggZmlsbD0iIzAwYzRiMyIgZD0iTTkwLjUgMTguMkw3NS43IDMuNWMtMy40LTMuNC04LTQuNC0xMC40LTIuM0wyNi45IDI2LjZoNTkuNWwyLjkuMWMxLjMgMCAyLjguMiA0LjMuN2wtMy4xLTkuMnoiLz48L3N2Zz4=" x="788" y="234" width="26" height="26"><title>Dart</title></image>
 </g>
 <g class="rise" style="animation-delay:.85s">
@@ -130,11 +130,11 @@
   <g clip-path="url(#barClip3)"><rect class="shine" x="80" y="260" width="80" height="10" fill="url(#anaShine)" style="animation-delay:1.6s"/></g>
   <circle class="tip" cx="544" cy="265" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:.8s"/>
 </g>
-<!-- ROW 4 : HTML 17.1% -->
+<!-- ROW 4 : HTML 17.0% -->
 <g class="rise" style="animation-delay:.95s">
   <circle cx="86" cy="296" r="5" fill="#E34F26" filter="url(#anaGlow)"/>
   <text x="100" y="300" class="stat-label">HTML</text>
-  <text x="776" y="300" text-anchor="end" class="pct">17.1%</text>
+  <text x="776" y="300" text-anchor="end" class="pct">17.0%</text>
   <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjRTQ0RDI2IiBkPSJNMTkuMDM3IDExMy44NzZMOS4wMzIgMS42NjFoMTA5LjkzNmwtMTAuMDE2IDExMi4xOTgtNDUuMDE5IDEyLjQ4eiIvPjxwYXRoIGZpbGw9IiNGMTY1MjkiIGQ9Ik02NCAxMTYuOGwzNi4zNzgtMTAuMDg2IDguNTU5LTk1Ljg3OEg2NHoiLz48cGF0aCBmaWxsPSIjRUJFQkVCIiBkPSJNNjQgNTIuNDU1SDQ1Ljc4OEw0NC41MyAzOC4zNjFINjRWMjQuNTk5SDI5LjQ4OWwuMzMgMy42OTIgMy4zODIgMzcuOTI3SDY0em0wIDM1Ljc0M2wtLjA2MS4wMTctMTUuMzI3LTQuMTQtLjk3OS0xMC45NzVIMzMuODE2bDEuOTI4IDIxLjYwOSAyOC4xOTMgNy44MjYuMDYzLS4wMTd6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTYzLjk1MiA1Mi40NTV2MTMuNzYzaDE2Ljk0N2wtMS41OTcgMTcuODQ5LTE1LjM1IDQuMTQzdjE0LjMxOWwyOC4yMTUtNy44Mi4yMDctMi4zMjUgMy4yMzQtMzYuMjMzLjMzNS0zLjY5NmgtMy43MDh6bTAtMjcuODU2djEzLjc2MmgzMy4yNDRsLjI3Ni0zLjA5Mi42MjgtNi45NzguMzI5LTMuNjkyeiIvPjwvc3ZnPg==" x="788" y="282" width="26" height="26"><title>HTML</title></image>
 </g>
 <g class="rise" style="animation-delay:1.05s">
