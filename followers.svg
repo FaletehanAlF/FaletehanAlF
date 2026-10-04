@@ -87,7 +87,7 @@
                begin="0.35s" repeatCount="indefinite"/>
     </circle>
     <text x="79" y="56.0" font-family="'Fira Code',ui-monospace,monospace"
-          font-size="9.5" letter-spacing="1.6" fill="#60a5fa"><tspan id="followers-count">11</tspan> FOLLOWERS</text>
+          font-size="9.5" letter-spacing="1.6" fill="#60a5fa"><tspan id="followers-count">12</tspan> FOLLOWERS</text>
   </g>
 
   <!-- arrow -->
