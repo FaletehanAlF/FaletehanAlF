@@ -113,9 +113,9 @@
 </g>
 <g class="rise" style="animation-delay:.65s">
   <rect x="80" y="212" width="700" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
-  <rect class="bar-fill" x="80" y="212" width="541" height="10" rx="5" fill="#0175C2" filter="url(#anaGlow)" style="animation-delay:.8s"/>
+  <rect class="bar-fill" x="80" y="212" width="542" height="10" rx="5" fill="#0175C2" filter="url(#anaGlow)" style="animation-delay:.8s"/>
   <g clip-path="url(#barClip2)"><rect class="shine" x="80" y="212" width="80" height="10" fill="url(#anaShine)" style="animation-delay:1.1s"/></g>
-  <circle class="tip" cx="621" cy="217" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:.4s"/>
+  <circle class="tip" cx="622" cy="217" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:.4s"/>
 </g>
 <!-- ROW 3 : CSS 17.6% -->
 <g class="rise" style="animation-delay:.75s">
