@@ -2,13 +2,14 @@ name: Update analytics languages
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "*/30 * * * *"
   workflow_dispatch:
   push:
     branches:
       - main
     paths:
       - "scripts/update-analytics.py"
+      - "analytics.svg"
       - ".github/workflows/update-analytics.yml"
 
 jobs:
