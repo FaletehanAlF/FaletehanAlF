@@ -111,7 +111,7 @@ ICON_PATH = {
     "PowerShell": "powershell/powershell-original.svg",
     "Jupyter Notebook": "python/python-original.svg",
     "Dockerfile": "docker/docker-original.svg",
-    "CMake": "cmake/cmake-icon.svg",
+    "CMake": "cmake/cmake-original.svg",
     "Blade": "laravel/laravel-original.svg",
     "Svelte": "svelte/svelte-original.svg",
     "Solidity": "solidity/solidity-original.svg",
