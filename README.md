@@ -22,7 +22,6 @@
 
 ---
 
-
 <div align="center">
 
 <img
@@ -133,14 +132,6 @@ I'm always open to interesting projects, collaborations, internships, and learni
 </a>
 
 </div>
-
-| Channel | Link |
-| :--- | :--- |
-| **LinkedIn** | [linkedin.com/in/faletehan-al-farabi-](https://www.linkedin.com/in/faletehan-al-farabi-) |
-| **Email** | [faletehanalfarabi09@gmail.com](mailto:faletehanalfarabi09@gmail.com) |
-| **YouTube** | [@444flthn](https://youtube.com/@444flthn) |
-| **Instagram** | [@faalen_portofolio](https://www.instagram.com/faalen_portofolio/) |
-| **Telegram** | [@faalenn](https://t.me/faalenn) |
 
 <br>
 
