@@ -47,16 +47,6 @@
 
 ---
 
-## Most Languages
-
-<div align="center">
-
-<img
-  width="100%"
-  src="languages.svg"
-  alt="Most Languages - 8 Bahasa Pemrograman"
-/>
-
 </div>
 
 ---
