@@ -35,13 +35,6 @@
 
 ---
 
-## Tech Stack
-
-**Frontend** — HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Vite, Vue, Flutter
-
-**Backend & Database** — Node.js, Express, PHP, Laravel, Go, MySQL, PostgreSQL, MongoDB, SQLite, Supabase, Firebase
-
-**Tools & Design** — Git, GitHub, GitLab, VS Code, Figma, Docker, Postman, Vercel, Netlify
 
 <div align="center">
 
