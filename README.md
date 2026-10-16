@@ -22,20 +22,6 @@
 
 ---
 
-## About Me
-
-Hi, I'm **Faletehan Al Farabi** — a Software Engineering student at **SMK Taruna Bhakti**,
-focused on **Full-Stack Web Development**. I learn new technologies by building things,
-and I care about solving problems through collaboration and clear communication.
-
-| Detail | Information |
-| :--- | :--- |
-| **Role** | Software Engineering Student — Full-Stack Web Developer |
-| **School** | SMK Taruna Bhakti |
-| **Focus** | Full-Stack Web Development |
-| **Core stack** | React, Next.js, TypeScript, Node.js, Tailwind CSS |
-| **Status** | Open to work, collaborations, and internships |
-| **Contact** | [faletehanalfarabi09@gmail.com](mailto:faletehanalfarabi09@gmail.com) |
 
 <div align="center">
 
