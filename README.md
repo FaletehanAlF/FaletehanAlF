@@ -103,8 +103,6 @@
 
 ## Let's Connect
 
-I'm always open to interesting projects, collaborations, internships, and learning opportunities.
-
 <div align="center">
 
 <img
