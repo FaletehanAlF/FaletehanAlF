@@ -322,6 +322,6 @@
 <circle class="particle" cx="868" cy="355" r="2" fill="#7dd3fc" style="animation-delay:3.1s"/>
 <!-- footer -->
 <g class="rise" style="animation-delay:1.6s">
-  <text x="450" y="446" text-anchor="middle" class="foot">LIVE FROM GITHUB LINGUIST &#183; 12 LANGUAGES &#183; UPDATED <tspan id="lastUpdated" fill="#ffffff">2026-10-15</tspan><tspan class="cursor" fill="#ffffff">_</tspan></text>
+  <text x="450" y="446" text-anchor="middle" class="foot">LIVE FROM GITHUB LINGUIST &#183; 12 LANGUAGES &#183; UPDATED <tspan id="lastUpdated" fill="#ffffff">2026-10-16</tspan><tspan class="cursor" fill="#ffffff">_</tspan></text>
 </g>
 </svg>
