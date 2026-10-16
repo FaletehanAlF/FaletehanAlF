@@ -107,8 +107,6 @@
   <text x="450" y="62" text-anchor="middle" class="title">MOST USED LANGUAGES</text>
 </g>
 <g transform="translate(700, 50)">
-  <circle class="live-dot" cx="0" cy="0" r="4" fill="#10b981"/>
-  <text x="10" y="4" class="live-txt">REAL-TIME</text>
 </g>
 <rect class="glowbar rise" x="390" y="74" width="120" height="2" fill="#38bdf8" filter="url(#anaGlow)" style="animation-delay:.15s"/>
 <rect class="rise" x="80" y="102" width="740" height="1.6" fill="url(#anaRule)" style="animation-delay:.25s">
@@ -121,11 +119,9 @@
   </circle>
 </g>
 <g class="slideL" style="animation-delay:.2s">
-  <text x="60" y="126" class="colhead">TOP 01 &#8212; 06</text>
   <rect x="60" y="132" width="56" height="1.6" fill="#38bdf8" opacity="0.7" filter="url(#anaGlow)"/>
 </g>
 <g class="slideR" style="animation-delay:.35s">
-  <text x="840" y="126" text-anchor="end" class="colhead">TOP 07 &#8212; 12</text>
   <rect x="724" y="132" width="56" height="1.6" fill="#2563eb" opacity="0.7" filter="url(#anaGlow)"/>
 </g>
 <rect x="449" y="140" width="2" height="270" rx="1" fill="url(#anaSplit)"/>
@@ -322,6 +318,5 @@
 <circle class="particle" cx="868" cy="355" r="2" fill="#7dd3fc" style="animation-delay:3.1s"/>
 <!-- footer -->
 <g class="rise" style="animation-delay:1.6s">
-  <text x="450" y="446" text-anchor="middle" class="foot">LIVE FROM GITHUB LINGUIST &#183; 12 LANGUAGES &#183; UPDATED <tspan id="lastUpdated" fill="#ffffff">2026-10-16</tspan><tspan class="cursor" fill="#ffffff">_</tspan></text>
 </g>
 </svg>
