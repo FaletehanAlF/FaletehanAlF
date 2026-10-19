@@ -130,13 +130,13 @@
   <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
 </circle>
 <!-- ROWS-START -->
-<!-- ROW 1 : JavaScript 23.8% -->
+<!-- ROW 1 : JavaScript 24.0% -->
 <clipPath id="barClip1"><rect x="60" y="166" width="370" height="10" rx="5"/></clipPath>
 <g class="slideL" style="animation-delay:0.30s">
   <text x="60" y="158" class="rank">01</text>
   <circle cx="84" cy="154" r="4.5" fill="#F7DF1E" filter="url(#anaGlow)"/>
   <text x="98" y="158" class="stat-label">JAVASCRIPT</text>
-  <text x="398" y="158" text-anchor="end" class="pct">23.8%</text>
+  <text x="398" y="158" text-anchor="end" class="pct">24.0%</text>
   <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjRjBEQjRGIiBkPSJNMS40MDggMS40MDhoMTI1LjE4NHYxMjUuMTg1SDEuNDA4eiIvPjxwYXRoIGZpbGw9IiMzMjMzMzAiIGQ9Ik0xMTYuMzQ3IDk2LjczNmMtLjkxNy01LjcxMS00LjY0MS0xMC41MDgtMTUuNjcyLTE0Ljk4MS0zLjgzMi0xLjc2MS04LjEwNC0zLjAyMi05LjM3Ny01LjkyNi0uNDUyLTEuNjktLjUxMi0yLjY0Mi0uMjI2LTMuNjY1LjgyMS0zLjMyIDQuNzg0LTQuMzU1IDcuOTI1LTMuNDAzIDIuMDIzLjY3OCAzLjkzOCAyLjIzNyA1LjA5MyA0LjcyNCA1LjQwMi0zLjQ5OCA1LjM5MS0zLjQ3NSA5LjE2My01Ljg3OS0xLjM4MS0yLjE0MS0yLjExOC0zLjEyOS0zLjAyMi00LjA0NS0zLjI0OS0zLjYyOS03LjY3Ni01LjQ5OC0xNC43NTYtNS4zNTVsLTMuNjg4LjQ3N2MtMy41MzQuODkzLTYuOTAyIDIuNzQ4LTguODc3IDUuMjM1LTUuOTI2IDYuNzI0LTQuMjM2IDE4LjQ5MiAyLjk3NSAyMy4zMzUgNy4xMDQgNS4zMzIgMTcuNTQgNi41NDUgMTguODczIDExLjUzMSAxLjI5NyA2LjEwNC00LjQ4NiA4LjA4LTEwLjIzNCA3LjM3OC00LjIzNi0uODgxLTYuNTkyLTMuMDM0LTkuMTM5LTYuOTQ5LTQuNjg4IDIuNzEzLTQuNjg4IDIuNzEzLTkuNTA4IDUuNDg1IDEuMTQzIDIuNDk5IDIuMzQ0IDMuNjMgNC4yNiA1Ljc5NSA5LjA2OCA5LjE5OCAzMS43NiA4Ljc0NiAzNS44My01LjE3Ni4xNjUtLjQ3OCAxLjI2MS0zLjY2Ni4zOC04LjU4MXpNNjkuNDYyIDU4Ljk0M0g1Ny43NTNsLS4wNDggMzAuMjcyYzAgNi40MzguMzMzIDEyLjM0LS43MTQgMTQuMTQ5LTEuNzEzIDMuNTU4LTYuMTUyIDMuMTE3LTguMTc1IDIuNDI3LTIuMDU5LTEuMDEyLTMuMTA2LTIuNDUxLTQuMzE5LTQuNDg1LS4zMzMtLjU4NC0uNTgzLTEuMDM2LS42NjctMS4wNzFsLTkuNTIgNS44M2MxLjU4MyAzLjI0OSAzLjkxNSA2LjA2OSA2LjkwMiA3LjkwMSA0LjQ2MiAyLjY3OCAxMC40NTkgMy40OTkgMTYuNzMxIDIuMDU5IDQuMDgyLTEuMTg5IDcuNjA0LTMuNjUyIDkuNDQ4LTcuNDAxIDIuNjY2LTQuOTE1IDIuMDk0LTEwLjg2NCAyLjA3LTE3LjQ0NC4wNi0xMC43MzUuMDAxLTIxLjQ2OC4wMDEtMzIuMjM3eiIvPjwvc3ZnPg==" x="406" y="137" width="24" height="24"><title>JavaScript</title></image>
 </g>
 <g class="slideL" style="animation-delay:0.42s">
@@ -156,24 +156,24 @@
 </g>
 <g class="slideL" style="animation-delay:0.52s">
   <rect x="60" y="214" width="370" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
-  <rect class="bar-fill" x="60" y="214" width="258" height="10" rx="5" fill="#0175C2" filter="url(#anaGlow)" style="animation-delay:0.65s"/>
+  <rect class="bar-fill" x="60" y="214" width="256" height="10" rx="5" fill="#0175C2" filter="url(#anaGlow)" style="animation-delay:0.65s"/>
   <g clip-path="url(#barClip2)"><rect class="shine" x="60" y="214" width="80" height="10" fill="url(#anaShine)" style="animation-delay:1.00s"/></g>
-  <circle class="tip" cx="318" cy="219" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:0.50s"/>
+  <circle class="tip" cx="316" cy="219" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:0.50s"/>
 </g>
-<!-- ROW 3 : HTML 15.1% -->
+<!-- ROW 3 : HTML 15.0% -->
 <clipPath id="barClip3"><rect x="60" y="262" width="370" height="10" rx="5"/></clipPath>
 <g class="slideL" style="animation-delay:0.50s">
   <text x="60" y="254" class="rank">03</text>
   <circle cx="84" cy="250" r="4.5" fill="#E34F26" filter="url(#anaGlow)"/>
   <text x="98" y="254" class="stat-label">HTML</text>
-  <text x="398" y="254" text-anchor="end" class="pct">15.1%</text>
+  <text x="398" y="254" text-anchor="end" class="pct">15.0%</text>
   <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjRTQ0RDI2IiBkPSJNMTkuMDM3IDExMy44NzZMOS4wMzIgMS42NjFoMTA5LjkzNmwtMTAuMDE2IDExMi4xOTgtNDUuMDE5IDEyLjQ4eiIvPjxwYXRoIGZpbGw9IiNGMTY1MjkiIGQ9Ik02NCAxMTYuOGwzNi4zNzgtMTAuMDg2IDguNTU5LTk1Ljg3OEg2NHoiLz48cGF0aCBmaWxsPSIjRUJFQkVCIiBkPSJNNjQgNTIuNDU1SDQ1Ljc4OEw0NC41MyAzOC4zNjFINjRWMjQuNTk5SDI5LjQ4OWwuMzMgMy42OTIgMy4zODIgMzcuOTI3SDY0em0wIDM1Ljc0M2wtLjA2MS4wMTctMTUuMzI3LTQuMTQtLjk3OS0xMC45NzVIMzMuODE2bDEuOTI4IDIxLjYwOSAyOC4xOTMgNy44MjYuMDYzLS4wMTd6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTYzLjk1MiA1Mi40NTV2MTMuNzYzaDE2Ljk0N2wtMS41OTcgMTcuODQ5LTE1LjM1IDQuMTQzdjE0LjMxOWwyOC4yMTUtNy44Mi4yMDctMi4zMjUgMy4yMzQtMzYuMjMzLjMzNS0zLjY5NmgtMy43MDh6bTAtMjcuODU2djEzLjc2MmgzMy4yNDRsLjI3Ni0zLjA5Mi42MjgtNi45NzguMzI5LTMuNjkyeiIvPjwvc3ZnPg==" x="406" y="233" width="24" height="24"><title>HTML</title></image>
 </g>
 <g class="slideL" style="animation-delay:0.62s">
   <rect x="60" y="262" width="370" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
-  <rect class="bar-fill" x="60" y="262" width="234" height="10" rx="5" fill="#E34F26" filter="url(#anaGlow)" style="animation-delay:0.75s"/>
+  <rect class="bar-fill" x="60" y="262" width="232" height="10" rx="5" fill="#E34F26" filter="url(#anaGlow)" style="animation-delay:0.75s"/>
   <g clip-path="url(#barClip3)"><rect class="shine" x="60" y="262" width="80" height="10" fill="url(#anaShine)" style="animation-delay:1.20s"/></g>
-  <circle class="tip" cx="294" cy="267" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:0.80s"/>
+  <circle class="tip" cx="292" cy="267" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:0.80s"/>
 </g>
 <!-- ROW 4 : CSS 15.0% -->
 <clipPath id="barClip4"><rect x="60" y="310" width="370" height="10" rx="5"/></clipPath>
@@ -186,9 +186,9 @@
 </g>
 <g class="slideL" style="animation-delay:0.72s">
   <rect x="60" y="310" width="370" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
-  <rect class="bar-fill" x="60" y="310" width="233" height="10" rx="5" fill="#1572B6" filter="url(#anaGlow)" style="animation-delay:0.85s"/>
+  <rect class="bar-fill" x="60" y="310" width="231" height="10" rx="5" fill="#1572B6" filter="url(#anaGlow)" style="animation-delay:0.85s"/>
   <g clip-path="url(#barClip4)"><rect class="shine" x="60" y="310" width="80" height="10" fill="url(#anaShine)" style="animation-delay:1.40s"/></g>
-  <circle class="tip" cx="293" cy="315" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:1.10s"/>
+  <circle class="tip" cx="291" cy="315" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:1.10s"/>
 </g>
 <!-- ROW 5 : TypeScript 13.2% -->
 <clipPath id="barClip5"><rect x="60" y="358" width="370" height="10" rx="5"/></clipPath>
@@ -201,9 +201,9 @@
 </g>
 <g class="slideL" style="animation-delay:0.82s">
   <rect x="60" y="358" width="370" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
-  <rect class="bar-fill" x="60" y="358" width="205" height="10" rx="5" fill="#3178C6" filter="url(#anaGlow)" style="animation-delay:0.95s"/>
+  <rect class="bar-fill" x="60" y="358" width="203" height="10" rx="5" fill="#3178C6" filter="url(#anaGlow)" style="animation-delay:0.95s"/>
   <g clip-path="url(#barClip5)"><rect class="shine" x="60" y="358" width="80" height="10" fill="url(#anaShine)" style="animation-delay:1.60s"/></g>
-  <circle class="tip" cx="265" cy="363" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:1.40s"/>
+  <circle class="tip" cx="263" cy="363" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:1.40s"/>
 </g>
 <!-- ROW 6 : PHP 7.8% -->
 <clipPath id="barClip6"><rect x="60" y="406" width="370" height="10" rx="5"/></clipPath>
@@ -216,9 +216,9 @@
 </g>
 <g class="slideL" style="animation-delay:0.92s">
   <rect x="60" y="406" width="370" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
-  <rect class="bar-fill" x="60" y="406" width="122" height="10" rx="5" fill="#777BB3" filter="url(#anaGlow)" style="animation-delay:1.05s"/>
+  <rect class="bar-fill" x="60" y="406" width="121" height="10" rx="5" fill="#777BB3" filter="url(#anaGlow)" style="animation-delay:1.05s"/>
   <g clip-path="url(#barClip6)"><rect class="shine" x="60" y="406" width="80" height="10" fill="url(#anaShine)" style="animation-delay:1.80s"/></g>
-  <circle class="tip" cx="182" cy="411" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:1.70s"/>
+  <circle class="tip" cx="181" cy="411" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:1.70s"/>
 </g>
 <!-- ROW 7 : C++ 2.8% -->
 <clipPath id="barClip7"><rect x="470" y="166" width="370" height="10" rx="5"/></clipPath>
@@ -231,9 +231,9 @@
 </g>
 <g class="slideR" style="animation-delay:1.02s">
   <rect x="470" y="166" width="370" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
-  <rect class="bar-fill" x="470" y="166" width="43" height="10" rx="5" fill="#F34B7D" filter="url(#anaGlow)" style="animation-delay:1.15s"/>
+  <rect class="bar-fill" x="470" y="166" width="42" height="10" rx="5" fill="#F34B7D" filter="url(#anaGlow)" style="animation-delay:1.15s"/>
   <g clip-path="url(#barClip7)"><rect class="shine" x="470" y="166" width="80" height="10" fill="url(#anaShine)" style="animation-delay:2.00s"/></g>
-  <circle class="tip" cx="513" cy="171" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:2.00s"/>
+  <circle class="tip" cx="512" cy="171" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:2.00s"/>
 </g>
 <!-- ROW 8 : CMake 2.1% -->
 <clipPath id="barClip8"><rect x="470" y="214" width="370" height="10" rx="5"/></clipPath>
