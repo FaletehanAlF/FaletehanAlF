@@ -130,13 +130,13 @@
   <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>
 </circle>
 <!-- ROWS-START -->
-<!-- ROW 1 : JavaScript 25.9% -->
+<!-- ROW 1 : JavaScript 25.8% -->
 <clipPath id="barClip1"><rect x="60" y="166" width="370" height="10" rx="5"/></clipPath>
 <g class="slideL" style="animation-delay:0.30s">
   <text x="60" y="158" class="rank">01</text>
   <circle cx="84" cy="154" r="4.5" fill="#F7DF1E" filter="url(#anaGlow)"/>
   <text x="98" y="158" class="stat-label">JAVASCRIPT</text>
-  <text x="398" y="158" text-anchor="end" class="pct">25.9%</text>
+  <text x="398" y="158" text-anchor="end" class="pct">25.8%</text>
   <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjRjBEQjRGIiBkPSJNMS40MDggMS40MDhoMTI1LjE4NHYxMjUuMTg1SDEuNDA4eiIvPjxwYXRoIGZpbGw9IiMzMjMzMzAiIGQ9Ik0xMTYuMzQ3IDk2LjczNmMtLjkxNy01LjcxMS00LjY0MS0xMC41MDgtMTUuNjcyLTE0Ljk4MS0zLjgzMi0xLjc2MS04LjEwNC0zLjAyMi05LjM3Ny01LjkyNi0uNDUyLTEuNjktLjUxMi0yLjY0Mi0uMjI2LTMuNjY1LjgyMS0zLjMyIDQuNzg0LTQuMzU1IDcuOTI1LTMuNDAzIDIuMDIzLjY3OCAzLjkzOCAyLjIzNyA1LjA5MyA0LjcyNCA1LjQwMi0zLjQ5OCA1LjM5MS0zLjQ3NSA5LjE2My01Ljg3OS0xLjM4MS0yLjE0MS0yLjExOC0zLjEyOS0zLjAyMi00LjA0NS0zLjI0OS0zLjYyOS03LjY3Ni01LjQ5OC0xNC43NTYtNS4zNTVsLTMuNjg4LjQ3N2MtMy41MzQuODkzLTYuOTAyIDIuNzQ4LTguODc3IDUuMjM1LTUuOTI2IDYuNzI0LTQuMjM2IDE4LjQ5MiAyLjk3NSAyMy4zMzUgNy4xMDQgNS4zMzIgMTcuNTQgNi41NDUgMTguODczIDExLjUzMSAxLjI5NyA2LjEwNC00LjQ4NiA4LjA4LTEwLjIzNCA3LjM3OC00LjIzNi0uODgxLTYuNTkyLTMuMDM0LTkuMTM5LTYuOTQ5LTQuNjg4IDIuNzEzLTQuNjg4IDIuNzEzLTkuNTA4IDUuNDg1IDEuMTQzIDIuNDk5IDIuMzQ0IDMuNjMgNC4yNiA1Ljc5NSA5LjA2OCA5LjE5OCAzMS43NiA4Ljc0NiAzNS44My01LjE3Ni4xNjUtLjQ3OCAxLjI2MS0zLjY2Ni4zOC04LjU4MXpNNjkuNDYyIDU4Ljk0M0g1Ny43NTNsLS4wNDggMzAuMjcyYzAgNi40MzguMzMzIDEyLjM0LS43MTQgMTQuMTQ5LTEuNzEzIDMuNTU4LTYuMTUyIDMuMTE3LTguMTc1IDIuNDI3LTIuMDU5LTEuMDEyLTMuMTA2LTIuNDUxLTQuMzE5LTQuNDg1LS4zMzMtLjU4NC0uNTgzLTEuMDM2LS42NjctMS4wNzFsLTkuNTIgNS44M2MxLjU4MyAzLjI0OSAzLjkxNSA2LjA2OSA2LjkwMiA3LjkwMSA0LjQ2MiAyLjY3OCAxMC40NTkgMy40OTkgMTYuNzMxIDIuMDU5IDQuMDgyLTEuMTg5IDcuNjA0LTMuNjUyIDkuNDQ4LTcuNDAxIDIuNjY2LTQuOTE1IDIuMDk0LTEwLjg2NCAyLjA3LTE3LjQ0NC4wNi0xMC43MzUuMDAxLTIxLjQ2OC4wMDEtMzIuMjM3eiIvPjwvc3ZnPg==" x="406" y="137" width="24" height="24"><title>JavaScript</title></image>
 </g>
 <g class="slideL" style="animation-delay:0.42s">
@@ -145,13 +145,13 @@
   <g clip-path="url(#barClip1)"><rect class="shine" x="60" y="166" width="80" height="10" fill="url(#anaShine)" style="animation-delay:0.80s"/></g>
   <circle class="tip" cx="430" cy="171" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:0.20s"/>
 </g>
-<!-- ROW 2 : HTML 18.0% -->
+<!-- ROW 2 : HTML 17.9% -->
 <clipPath id="barClip2"><rect x="60" y="214" width="370" height="10" rx="5"/></clipPath>
 <g class="slideL" style="animation-delay:0.40s">
   <text x="60" y="206" class="rank">02</text>
   <circle cx="84" cy="202" r="4.5" fill="#E34F26" filter="url(#anaGlow)"/>
   <text x="98" y="206" class="stat-label">HTML</text>
-  <text x="398" y="206" text-anchor="end" class="pct">18.0%</text>
+  <text x="398" y="206" text-anchor="end" class="pct">17.9%</text>
   <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjRTQ0RDI2IiBkPSJNMTkuMDM3IDExMy44NzZMOS4wMzIgMS42NjFoMTA5LjkzNmwtMTAuMDE2IDExMi4xOTgtNDUuMDE5IDEyLjQ4eiIvPjxwYXRoIGZpbGw9IiNGMTY1MjkiIGQ9Ik02NCAxMTYuOGwzNi4zNzgtMTAuMDg2IDguNTU5LTk1Ljg3OEg2NHoiLz48cGF0aCBmaWxsPSIjRUJFQkVCIiBkPSJNNjQgNTIuNDU1SDQ1Ljc4OEw0NC41MyAzOC4zNjFINjRWMjQuNTk5SDI5LjQ4OWwuMzMgMy42OTIgMy4zODIgMzcuOTI3SDY0em0wIDM1Ljc0M2wtLjA2MS4wMTctMTUuMzI3LTQuMTQtLjk3OS0xMC45NzVIMzMuODE2bDEuOTI4IDIxLjYwOSAyOC4xOTMgNy44MjYuMDYzLS4wMTd6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTYzLjk1MiA1Mi40NTV2MTMuNzYzaDE2Ljk0N2wtMS41OTcgMTcuODQ5LTE1LjM1IDQuMTQzdjE0LjMxOWwyOC4yMTUtNy44Mi4yMDctMi4zMjUgMy4yMzQtMzYuMjMzLjMzNS0zLjY5NmgtMy43MDh6bTAtMjcuODU2djEzLjc2MmgzMy4yNDRsLjI3Ni0zLjA5Mi42MjgtNi45NzguMzI5LTMuNjkyeiIvPjwvc3ZnPg==" x="406" y="185" width="24" height="24"><title>HTML</title></image>
 </g>
 <g class="slideL" style="animation-delay:0.52s">
@@ -175,20 +175,20 @@
   <g clip-path="url(#barClip3)"><rect class="shine" x="60" y="262" width="80" height="10" fill="url(#anaShine)" style="animation-delay:1.20s"/></g>
   <circle class="tip" cx="307" cy="267" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:0.80s"/>
 </g>
-<!-- ROW 4 : TypeScript 16.9% -->
+<!-- ROW 4 : TypeScript 17.0% -->
 <clipPath id="barClip4"><rect x="60" y="310" width="370" height="10" rx="5"/></clipPath>
 <g class="slideL" style="animation-delay:0.60s">
   <text x="60" y="302" class="rank">04</text>
   <circle cx="84" cy="298" r="4.5" fill="#3178C6" filter="url(#anaGlow)"/>
   <text x="98" y="302" class="stat-label">TYPESCRIPT</text>
-  <text x="398" y="302" text-anchor="end" class="pct">16.9%</text>
+  <text x="398" y="302" text-anchor="end" class="pct">17.0%</text>
   <image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjIuNjcgNDdoOTkuNjd2NzMuNjdIMjIuNjd6Ii8+PHBhdGggZGF0YS1uYW1lPSJvcmlnaW5hbCIgZmlsbD0iIzAwN2FjYyIgZD0iTTEuNSA2My45MXY2Mi41aDEyNXYtMTI1SDEuNXptMTAwLjczLTVhMTUuNTYgMTUuNTYgMCAwMTcuODIgNC41IDIwLjU4IDIwLjU4IDAgMDEzIDRjMCAuMTYtNS40IDMuODEtOC42OSA1Ljg1LS4xMi4wOC0uNi0uNDQtMS4xMy0xLjIzYTcuMDkgNy4wOSAwIDAwLTUuODctMy41M2MtMy43OS0uMjYtNi4yMyAxLjczLTYuMjEgNWE0LjU4IDQuNTggMCAwMC41NCAyLjM0Yy44MyAxLjczIDIuMzggMi43NiA3LjI0IDQuODYgOC45NSAzLjg1IDEyLjc4IDYuMzkgMTUuMTYgMTAgMi42NiA0IDMuMjUgMTAuNDYgMS40NSAxNS4yNC0yIDUuMi02LjkgOC43My0xMy44MyA5LjlhMzguMzIgMzguMzIgMCAwMS05LjUyLS4xIDIzIDIzIDAgMDEtMTIuNzItNi42M2MtMS4xNS0xLjI3LTMuMzktNC41OC0zLjI1LTQuODJhOS4zNCA5LjM0IDAgMDExLjE1LS43M0w4MiAxMDFsMy41OS0yLjA4Ljc1IDEuMTFhMTYuNzggMTYuNzggMCAwMDQuNzQgNC41NGM0IDIuMSA5LjQ2IDEuODEgMTIuMTYtLjYyYTUuNDMgNS40MyAwIDAwLjY5LTYuOTJjLTEtMS4zOS0zLTIuNTYtOC41OS01LTYuNDUtMi43OC05LjIzLTQuNS0xMS43Ny03LjI0YTE2LjQ4IDE2LjQ4IDAgMDEtMy40My02LjI1IDI1IDI1IDAgMDEtLjIyLThjMS4zMy02LjIzIDYtMTAuNTggMTIuODItMTEuODdhMzEuNjYgMzEuNjYgMCAwMTkuNDkuMjZ6bS0yOS4zNCA1LjI0djUuMTJINTYuNjZ2NDYuMjNINDUuMTVWNjkuMjZIMjguODh2LTVhNDkuMTkgNDkuMTkgMCAwMS4xMi01LjE3QzI5LjA4IDU5IDM5IDU5IDUxIDU5aDIxLjgzeiIvPjwvc3ZnPg==" x="406" y="281" width="24" height="24"><title>TypeScript</title></image>
 </g>
 <g class="slideL" style="animation-delay:0.72s">
   <rect x="60" y="310" width="370" height="10" rx="5" fill="#0a1e3a" stroke="#38bdf8" stroke-opacity="0.25"/>
-  <rect class="bar-fill" x="60" y="310" width="242" height="10" rx="5" fill="#3178C6" filter="url(#anaGlow)" style="animation-delay:0.85s"/>
+  <rect class="bar-fill" x="60" y="310" width="243" height="10" rx="5" fill="#3178C6" filter="url(#anaGlow)" style="animation-delay:0.85s"/>
   <g clip-path="url(#barClip4)"><rect class="shine" x="60" y="310" width="80" height="10" fill="url(#anaShine)" style="animation-delay:1.40s"/></g>
-  <circle class="tip" cx="302" cy="315" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:1.10s"/>
+  <circle class="tip" cx="303" cy="315" r="3" fill="#ffffff" filter="url(#anaGlow)" style="animation-delay:1.10s"/>
 </g>
 <!-- ROW 5 : Dart 14.5% -->
 <clipPath id="barClip5"><rect x="60" y="358" width="370" height="10" rx="5"/></clipPath>
